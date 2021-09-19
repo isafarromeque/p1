@@ -1,0 +1,1539 @@
+N.,Denominaci�n,Departamento,Provincia,Distrito,�rea
+1,"""Caritas de la Prelatura de Moyobamba""",San Martin,San Martin,Moyobamba,ambiente / inclusión social / justicia
+2,"""ONG - Asociación Civil Virgen de la Medalla Milagrosa""",San Martin,San Martin,Nueva Cajamarca,agropecuario / ambiente / educación / género
+3,Abba International,San Martin,San Martin,Tarapoto,género
+4,Accion Andina O.N.G.D.,Ayacucho,Ayacucho,Ayacucho,ambiente / educación / género / inclusión social
+5,Acción Cristiana Integral para el Desarrollo,Huanuco,Huanuco,Rupa-Rupa,educación / género / salud
+6,Accion Humanitaria sin Fronteras,Lima,Lima,Los Olivos,educación / salud / vivienda y saneamiento
+7,Acción para el Desarrollo del Niño y la Mujer,Lima,Lima,La Victoria,educación / género
+8,Acción para la Gestión y el Desarrollo Rural Sostenible de Perú,Lima,Lima,Jesus Maria,agropecuario / comercio y turismo
+9,Acción por Los Niños,Lima,Lima,Magdalena del Mar,educación / género / gobernabilidad / salud
+10,Acción Social e Integración,Lima,Lima,San Juan de Miraflores,educación / género / salud
+11,Acción Social por la Niñez y Poblaciones Vulnerables,Huanuco,Huanuco,Huánuco,educación / gobernabilidad
+12,Acción Social y Desarrollo,Arequipa,Arequipa,Alto Selva Alegre,agropecuario / economía / educación / género / inclusión social / producción / salud / vivienda y saneamiento
+13,Acción y Desarrollo,Lima,Lima,San Juan de Lurigancho,género / gobernabilidad
+14,Acciona Microenergia Perú,Cajamarca,Cajamarca,Cajamarca,energía/extractiva
+15,Agencia Adventista para el Desarrollo y Recursos Asistenciales - Perú,Lima,Lima,Miraflores,educación / género / gobernabilidad / inclusión social / salud
+16,Agencia de Servicios Estratégicos para el Desarrollo Urbano Regional,Lima,Lima,Miraflores,gobernabilidad
+17,Agencia Internacional de Cooperación y Desarrollo,Lima,Lima,Miraflores,ambiente / género
+18,Agencia Tecnológica de Desarrollo Integral Productivo,La Libertad,La Libertad,Trujillo,agropecuario / ambiente
+19,Agro Industria,Lambayeque,Lambayeque,Chiclayo,agropecuario / ciencia y tecnología
+20,Agrosalud de Ucayali,Ucayali,Ucayali,Calleria,agropecuario / ambiente / género / salud
+21,"Agrupación de Limitados Físicos de San Juan de Dios, Ortopedia y Biomecánica en General",Lima,Lima,Villa El Salvador,salud
+22,Agua y Saneamiento para Perú,Lima,Lima,La Molina,vivienda y saneamiento
+23,Akuy Akuku,Lima,Lima,Magdalena del Mar,educación
+24,Alba - Turismo Sustentable,Lima,Lima,San Isidro,ambiente / género
+25,Albergue de la Iglesia Santo Monte de Jehova,Junin,Junin,San Agustin,género
+26,Aldeas Infantiles SOS Perú - Asociación Nacional,Lima,Lima,San Isidro,género
+27,Allpanchis,Lima,Lima,San Isidro,ambiente
+28,Alma Capac,Lima,Lima,Lima,género / trabajo
+29,Alternativa Centro de Investigación Social y Educación Popular,Lima,Lima,San Martin de Porres,producción / salud / trabajo / vivienda y saneamiento
+30,Alternativas Sociales de Desarrollo - Perú,Lima,Lima,Pueblo Libre,género / salud
+31,AMA - Asociación Indígena del Perú,Junin,Junin,El Tambo,inclusión social
+32,Amantani Ccorca,Cusco,Cusco,Cusco,educación / género / salud
+33,Amas al Perú,La Libertad,La Libertad,Trujillo,educación / género
+34,Amazon Forever,Loreto,Loreto,Belen,ambiente / educación
+35,Amazónicos por la Amazonia,San Martin,San Martin,Moyobamba,gobernabilidad
+36,Apega: Sociedad Peruana de Gastronomía - Asociación Civil,Lima,Lima,Magdalena del Mar,educación
+37,Apes Misiones Rurales,Lima,Lima,Santiago de Surco,género
+38,Aportes para el Desarrollo Humano,Lima,Lima,Jesus María,educación / género
+39,Apoyarte Perú,La Libertad,La Libertad,Huanchaco,educación / género
+40,Apoyo a Programas de Población - Apropo,Lima,Lima,San Isidro,ciencia y tecnología / educación / género / gobernabilidad / inclusión social / salud
+41,"Apoyo Social, Prevención de Desastres y Medio Ambiente - Aspred",La Libertad,La Libertad,Huanchaco,educación / salud
+42,Aprenda Asociación para el Desarrollo Sostenible,Lima,Lima,Santiago de Surco,educación / producción
+43,Aprendiendo a Transitar,Lima,Lima,Villa Maria Del Triunfo,educación
+44,Aqui Estamos,Lima,Lima,La Molina,educación / inclusión social / salud
+45,Arce Rojo,La Libertad,La Libertad,Trujillo,educación
+46,Areas Costeras y Recursos Marinos - Acorema,Ica,Ica,Pisco,ambiente / educación
+47,Arpegio,La Libertad,La Libertad,Trujillo,ambiente / gobernabilidad
+48,Asis Perú Internacional,Lima,Lima,Lince,educación / gobernabilidad
+49,Asociación Cultural Turística y Asistencia Social Huacachina Oasis de América,Lima,Lima,Miraflores,comercio y turismo / educación
+50,Asociación Aeroplano Audiovisual,Lima,Lima,Jesus Maria,salud
+51,Asociación Agape,Lima,Lima,La Victoria,género
+52,Asociación Agla,Huanuco,Huanuco,Amarilis,educación / género / inclusión social
+53,Asociación Agro Forestal Amigos del Planeta,Apurimac,Apurimac,Abancay,ambiente
+54,Asociación Agroforestal para Combatir el Cambio Climático Quiquia-Rojas Santa Rosa de Luichsh - Aapccc-Qrsrl,Junin,Junin,San Pedro de Cajas,educación
+55,Asociación Agropecuaria Flor de la Esperanza - Sector Paredones - Morrope,Lambayeque,Lambayeque,Lambayeque,ambiente
+56,Asociación Agustín Cauper Videira,Ucayali,Ucayali,Yarinacocha,educación / género / justicia
+57,Asociación Allin Kawsanapaq,Lima,Lima,San Martin de Porres,educación / género
+58,Asociación Allin Kawsay,Cusco,Cusco,Sicuani,educación / género / inclusión social
+59,Asociación Allpa para la Cooperación y el Desarrollo Sostenible,Ancash,Ancash,Huari,gobernabilidad
+60,Asociación Amici del Perú,Cusco,Cusco,San Sebastian,educación / género
+61,Asociación Andares-Perú,La Libertad,La Libertad,Moche,educación
+62,Asociación Andina de Desarrollo Sostenible,Ancash,Ancash,Huaraz,agropecuario / ambiente / género
+63,Asociacion Apoyo Al Desarrollo Integral Sostenido,Cajamarca,Cajamarca,Cajamarca,ambiente / educación / inclusión social
+64,Asociacion Arariwa Para La Promocion Tecnico Cultural Andina,Cusco,Cusco,Wanchaq,ambiente / género / producción / salud
+65,Asociacion Arco Iris,Ancash,Ancash,Huaraz,agropecuario / salud / trabajo
+66,Asociacion Arequipa Silvestre,Arequipa,Arequipa,Cayma,educación
+67,Asociacion Atisun,Moquegua,Moquegua,Moquegua,ambiente / educación
+68,Asociacion Atrevete,La Libertad,La Libertad,Trujillo,educación / género
+69,Asociacion Ayniy Latinoamerica,Lima,Lima,Ate,ambiente / ciencia y tecnología
+70,Asociacion Bartolome Aripaylla,Ayacucho,Ayacucho,Carmen Alto,ambiente / género / producción
+71,Asociacion Bautista Hogar Para Menores Nueva Esperanza,Arequipa,Arequipa,Jose Luis Bustamante y Rivero,educación / género / salud
+72,Asociacion Benefica Alianza Por El Bien Comun,Lima,Lima,Lurin,educación
+73,Asociacion Benefica Maria Echevarria Saona,Lima,Lima,Santiago de Surco,salud
+74,Asociacion Benefica Prisma,Lima,Lima,San Isidro,agropecuario / inclusión social / salud
+75,Asociacion Benefica Ruwasunchis,Lima,Lima,Surquillo,ambiente / educación / género / inclusión social
+76,Asociacion Benefica Solidaria Cardiosalud-Organismo No Gubernamental,Arequipa,Arequipa,Yanahuara,ambiente / salud
+77,Asociación Benefico Cristiana Promotora de Desarrollo Integral,Cusco,Cusco,Cusco,educación
+78,Asociacion Bio Modus Tropical,Lima,Lima,La Molina,educación
+79,Asociacion Bioselva Peru,Loreto,Loreto,Yurimaguas,agropecuario / inclusión social / producción
+80,Asociacion Buena Educacion,Lima,Lima,Santiago De Surco,educación
+81,Asociación Carceleria Lideres al Servicio de la Comunidad,Ancash,Ancash,Chimbote,género
+82,Asociación Caridad y Solidaridad para el Bienestar del Adulto Mayor,Lima,Lima,Ate,género
+83,Asociación Caritas Felices de Ilo,Moquegua,Moquegua,Pacocha,educación / salud
+84,Asociación Caritas Felices por la Salud y el Bienestar,Lambayeque,Lambayeque,La Victoria,salud
+85,Asociación Carmen Loya,La Libertad,La Libertad,Trujillo,género
+86,Asociación Casa de la Mujer Carmelitana,Ica,Ica,El Carmen,género
+87,Asociación Casa Ronald Mcdonald de Perú,Lima,Lima,Santiago De Surco,educación / género
+88,Asociación Casas de la Misericordia,Lima,Lima,Lurigancho,educación / género / salud
+89,Asociación Casas de la Salud,Ica,Ica,Subtanjalla,educación / salud
+90,Asociación Centro de Apoyo para el Desarrollo Sostenible de las Comunidades Campesinas del Perú Bosque Dorado - Cades Perú,Junin,Junin,El Tambo,educación
+91,"Asociación Centro de Educación, Organización y Promoción del Desarrollo Ilo",Moquegua,Moquegua,Ilo,educación
+92,Asociacion Centro de Estudios y Promoción del Desarrollo Andino Amazónico - Descocentro,Junin,Junin,Huancayo,educación / gobernabilidad
+93,Asociación Centro de Estudios y Proyectos Sociales para con las Comunidades de Apurimac Perú,Apurimac,Apurimac,Abancay,agropecuario
+94,Asociación Centro de Innovación Científica Amazónica,Madre De Dios,Madre De Dios,Tambopata,ambiente
+95,Asociacion Chico Latino,Cusco,Cusco,San Sebastian,educación / género
+96,Asociacion Choque Auqui,Lima,Lima,Villa El Salvador,ambiente / salud
+97,Asociación Chuyma de Apoyo Rural,Puno,Puno,Puno,agropecuario / ambiente / educación / gobernabilidad / producción / salud
+98,Asociación Cientifica de Emprendedores en Seguridad y Salud Ocupacional,Junin,Junin,El Tambo,educación / salud
+99,Asociación Ciudad Paraiso Ecológico de Paracas,Lima,Lima,Jesus Maria,ambiente
+100,"Asociación Civil ""Aun Hay Esperanza""",Junin,Junin,Huancayo,educación / justicia / salud
+101,Asociación Civil Alianza Arkana,Ucayali,Ucayali,Yarinacocha,ambiente / gobernabilidad
+102,Asociación Civil Alianza para el Desarrollo Tumi,Lima,Lima,Los Olivos,agropecuario / ciencia y tecnología / comercio y turismo / economía / educación / género / gobernabilidad / producción / salud / trabajo / vivienda y saneamiento
+103,"Asociación Civil Autonoma y Sin Fines de Lucro: Organismo No Gubernamental de Desarrollo ""Mejorando Vidas""",Ayacucho,Ayacucho,Ayacucho,ambiente / educación
+104,Asociación Civil Brazos del Padre,Cajamarca,Cajamarca,Jaen,género
+105,Asociación Civil Brigada de Salvamento y Rescate Los Chinchas,Lima,Lima,Lima,educación / género
+106,Asociacion Civil Centro de Cultura Popular Labor,Pasco,Pasco,Chaupimarca,cultura / educación / género
+107,Asociacion Civil Centro de Desarrollo Andino Sisay,Ayacucho,Ayacucho,Ayacucho,agropecuario / género
+108,Asociacion Civil Centro de Estudios Solidarios Amazonicos,Cajamarca,Cajamarca,Jaen,género
+109,Asociacion Civil Centro de Investigacion De Desarrollo Local - Cidel,Huanuco,Huanuco,Huanuco,género / seguridad / trabajo
+110,Asociacion Civil Centro de Promocion Para La Inversion En El Desarrollo - Cpinde,San Martin,San Martin,Tarapoto,agropecuario / ambiente
+111,Asociacion Civil Chibolito,Cajamarca,Cajamarca,Cajamarca,género
+112,Asociacion Civil Comunidad Ecoturistica Sisayacu Pongo de Caynarachi-Lamas-Region San Martin Peru,San Martin,San Martin,Tarapoto,ambiente
+113,Asociacion Civil Consultoria Educativa Urpi,Lima,Lima,Independencia,educación / salud
+114,Asociacion Civil Cooperacion Andina,Moquegua,Moquegua,Moquegua,educación
+115,Asociacion Civil Cordillera Blanca,Ancash,Ancash,Huaraz,género / gobernabilidad
+116,"Asociacion Civil de Defensa de Los Derechos Humanos de Los Pueblos Americanos ""Addha""",Lima,Lima,Lima,género
+117,Asociacion Civil de Desarrollo Los Caritativos,La Libertad,La Libertad,Chepen,género
+118,Asociacion Civil de Personas Con Discapacidad Corazones Unidos Con Esperanza Del Bajo Piura,Piura,Piura,Vice,educación
+119,Asociacion Civil Defensores del Ambiente Organizacion No Gubernamental De Desarrollo,Huancavelica,Huancavelica,Huancavelica,ambiente / comercio y turismo
+120,Asociacion Civil Divino Niño Jesus,Lima,Lima,San Borja,ciencia y tecnología / educación / género / gobernabilidad / inclusión social / salud
+121,Asociacion Civil Ecosistema & Desarrollo Sostenible,Lima,Lima,La Molina,ambiente / ciencia y tecnología
+122,Asociacion Civil Educadores de Salud para La Comunidad,Lima,Lima,Carabayllo,género
+123,Asociacion Civil Esencias,Lima,Lima,Rimac,educación / justicia
+124,Asociacion Civil Forjando Talentos Andres Bello,Lima,Lima,San Juan De Miraflores,educación / género
+125,Asociacion Civil Fundacion Contra El Hambre y La Pobreza en El Callao,Callao,Callao,Callao,género / salud
+126,Asociacion Civil Hijos de La Esperanza,La Libertad,La Libertad,La Esperanza,educación / género
+127,Asociacion Civil Ilo Ongd,Moquegua,Moquegua,Pacocha,género / salud
+128,Asociacion Civil Impacta Salud y Educacion,Lima,Lima,Barranco,educación / salud
+129,Asociación Civil Instituto Peruano de la Ciencia y la Cultura,Callao,Callao,Callao,ciencia y tecnología / educación
+130,"Asociacion Civil Internacional ""Emanuel"" de Las Asambleas de Dios",Junin,Junin,Satipo,educación
+131,Asociacion Civil Inti Runakunaq Wasin,Cusco,Cusco,San Jeronimo,género
+132,Asociacion Civil Kizuna Amazonica,Ucayali,Ucayali,Calleria,ambiente / inclusión social
+133,Asociacion Civil Labor,Arequipa,Arequipa,Arequipa,agropecuario / ambiente / producción / salud
+134,Asociacion Civil Liderar Y Servir,La Libertad,La Libertad,Trujillo,género
+135,Asociacion Civil Living Water International Peru,Cajamarca,Cajamarca,Cajamarca,educación / género
+136,Asociacion Civil Llamkarisun,Huancavelica,Huancavelica,Huancavelica,ambiente / inclusión social / justicia
+137,Asociacion Civil Megam Peru,Lima,Lima,Miraflores,ciencia y tecnología
+138,Asociacion Civil Mi Amazonia,Loreto,Loreto,Iquitos,salud
+139,Asociacion Civil Neoandina,Lima,Lima,Santiago De Surco,ambiente / género
+140,Asociacion Civil Ong Camina Conmigo,Cajamarca,Cajamarca,Cajamarca,economía / educación / justicia
+141,Asociacion Civil Organismo No Gubernamental Comunidad Participativa Trabajo Y Realidad,Huanuco,Huanuco,Rupa-Rupa,agropecuario / gobernabilidad / inclusión social / vivienda y saneamiento
+142,Asociacion Civil Organismo No Gubernamental De Desarrollo - Apoyo A Los Niños Desamparados Y Adulto Mayor,Lambayeque,Lambayeque,Pimentel,educación / género
+143,Asociacion Civil Organismo No Gubernamental De Desarrollo - Proyeccion Social Para El Desarrollo Integral,Lambayeque,Lambayeque,La Victoria,salud
+144,Asociacion Civil Organismo No Gubernamental De Desarrollo Amigos De La Selva,Loreto,Loreto,Iquitos,ambiente / educación
+145,Asociacion Civil Organismo No Gubernamental De Desarrollo Asistencia Social Integral Para Mejoras De Condicion De Vida,Lambayeque,Lambayeque,Pimentel,educación / género
+146,Asociacion Civil Organismo No Gubernamental De Desarrollo En Apoyo Integral De Las Personas - Salvando Vidas,Lambayeque,Lambayeque,Jose Leonardo Ortiz,género
+147,Asociacion Civil Organismo No Gubernamental De Desarrollo Oasis De Esperanza,Cajamarca,Cajamarca,Chota,ambiente / educación
+148,"Asociacion Civil Organismo No Gubernamental En Desarrollo, El Buen Sembrador",La Libertad,La Libertad,Victor Larco Herrera,ambiente / educación
+149,Asociacion Civil Organismo No Gubernamental Ong - Luminares en El Mundo,Lambayeque,Lambayeque,Pucala,educación / salud
+150,"Asociacion Civil Organizacion No Gubernamental De Cooperacion en Alimentacion, Educacion Y Medio Ambiente",Ucayali,Ucayali,Calleria,género
+151,"Asociacion Civil Pachamama Raymi, Aprender de Los Mejores",Cusco,Cusco,Cusco,ambiente / educación / género / gobernabilidad
+152,Asociacion Civil Para El Desarrollo Integral Nueva Vida,La Libertad,La Libertad,Trujillo,inclusión social
+153,Asociacion Civil Para El Desarrollo Y Asistencia Humanitaria Amor En Accion,La Libertad,La Libertad,Trujillo,educación / género
+154,Asociacion Civil Para El Progreso Y Desarrollo,La Libertad,La Libertad,Chepen,salud
+155,Asociacion Civil Para La Gestion Del Agua En Cuencas,Lima,Lima,Jesus Maria,salud
+156,Asociacion Civil Para La Investigacion Y El Desarrollo Forestal - Adefor,Cajamarca,Cajamarca,Cajamarca,ambiente
+157,Asociacion Civil Para La Mitigacion De Impactos De Cambio Climatico - Micacli,Ucayali,Ucayali,Calleria,ambiente / género
+158,Asociacion Civil Para La Preservacion Y El Desarrollo Sostenible De La Amazonia,Lima,Lima,Miraflores,ambiente
+159,Asociacion Civil Peru Nacion Solidario,Lima,Lima,Chorrillos,inclusión social / justicia
+160,Asociacion Civil Planta Tu Futuro,Lima,Lima,Miraflores,ambiente / educación
+161,"Asociacion Civil Por La Salud, La Educacion Y El Trabajo",Lima,Lima,Pueblo Libre,agropecuario / educación / energía/extractiva / género
+162,"Asociacion Civil Por La Salud, La Educacion Y El Trabajo Los Hijos Del Sol",Lima,Lima,Jesus Maria,educación / trabajo
+163,Asociacion Civil Promotora Del Centro Cultural Intelligent Plus,La Libertad,La Libertad,Trujillo,educación
+164,Asociacion Civil Prorural,Lima,Lima,San Isidro,educación
+165,Asociacion Civil Proyecto Amazonas,Loreto,Loreto,Iquitos,agropecuario / ambiente / ciencia y tecnología / educación / gobernabilidad / producción / salud
+166,Asociacion Civil Puririsun,Cusco,Cusco,Santiago,educación / género
+167,Asociacion Civil Religiosa Diospi Suyana,Apurimac,Apurimac,Curahuasi,educación / salud
+168,Asociacion Civil Religiosa San Andres Solidaridad Y Desarrollo,Ancash,Ancash,Nuevo Chimbote,ambiente / educación
+169,Asociacion Civil Santa Ana,Lambayeque,Lambayeque,Jose Leonardo Ortiz,educación / género
+170,Asociacion Civil Santa Teresa - Abancay,Apurimac,Apurimac,Abancay,género
+171,Asociacion Civil Selva Amazonica,Loreto,Loreto,Iquitos,salud
+172,Asociacion Civil Sin Fines De Lucro Abrazos,Cusco,Cusco,Santiago,salud
+173,Asociacion Civil Sin Fines De Lucro Los Niños Del Peru,Cusco,Cusco,San Sebastian,género / salud
+174,Asociacion Civil Sin Fines De Lucro Mujer Asertiva Mv,Lima,Lima,San Miguel,género
+175,Asociacion Civil Sin Fines De Lucro Mundo Primaveral,La Libertad,La Libertad,Tayabamba,ambiente / educación / género / salud
+176,Asociacion Civil Solidarios Abc,Lima,Lima,Miraflores,género / salud
+177,Asociacion Civil Tierra Prometida Del Milenio,Lambayeque,Lambayeque,Chiclayo,educación
+178,Asociacion Civil Trabajando Por Los Pobres Del Peru,Lima,Lima,Santiago De Surco,género / producción / vivienda y saneamiento
+179,Asociacion Civil Villa Milagro,Cajamarca,Cajamarca,Cajamarca,educación / género / inclusión social
+180,Asociacion Civil Wara,Cusco,Cusco,Wanchaq,ambiente / género / gobernabilidad
+181,"Asociacion Civil, Social, Economico Y Cultural De Las Comunidades Campesinas Y Nativas",Loreto,Loreto,Lagunas,ambiente
+182,Asociacion Compartiendo Vida Y Salud,Lima,Lima,Chorrillos,ambiente / educación / género / salud
+183,Asociacion Comunidad Sabiduria Andante Paz Y Bien,Callao,Callao,Ventanilla,género / salud
+184,"Asociacion Comunion, Promocion, Desarrollo Y Liberacion Coprodeli",Callao,Callao,Callao,educación / salud
+185,Asociacion Con Nuevos Paradigmas De Desarrollo Sostenible,Lima,Lima,Ate,educación / inclusión social
+186,Asociacion Construyendo El Futuro Para Niños Peruanos,Cajamarca,Cajamarca,Lajas,género / inclusión social
+187,Asociacion Corazon De La Amazonia Nii Juinti,Ucayali,Ucayali,Calleria,educación
+188,Asociacion Creando Sueños,Lima,Lima,Barranco,género
+189,Asociacion Cristiana Erkhetai,Ica,Ica,Tupac Amaru Inca,cultura / educación / gobernabilidad / inclusión social / trabajo
+190,Asociacion Cristiana Evangelica Para El Desarrollo,Lima,Lima,Santiago De Surco,educación / inclusión social / justicia / transportes y comunicaciones
+191,Asociacion Cristiana Felipe Y Jacobo,Lima,Lima,Comas,género
+192,Asociacion Cuencas Andinas Kiswar,Ayacucho,Ayacucho,Ayacucho,ambiente / género / gobernabilidad / inclusión social
+193,Asociacion Cultural Ad Libitum,Lima,Lima,Lima,educación
+194,Asociacion Cultural Angel Del Folklore Internacional,Lima,Lima,Lima,cultura
+195,Asociacion Cultural Artesano,Cajamarca,Cajamarca,Cajamarca,educación
+196,Asociacion Cultural Ayllu Yupaychay,Cusco,Cusco,Cusco,educación
+197,Asociacion Cultural De Desarrollo Para La Proteccion Del Medio Ambiente,Ucayali,Ucayali,Calleria,ambiente / género
+198,Asociacion Cultural De Emprendedores Para Un Mundo Sostenible,Huanuco,Huanuco,Ambo,ambiente / género / salud
+199,Asociacion Cultural Expresion,Lima,Lima,Pueblo Libre,educación
+200,Asociacion Cultural Johannes Gutenberg,Lima,Lima,El Agustino,educación / género / salud
+201,Asociacion Cultural Para Ayudar A La Niñez - Pan,Lima,Lima,La Molina,género
+202,Asociacion Cultural Para El Desarrollo Integral Participativo,Lima,Lima,Lince,ambiente / educación
+203,Asociacion Cultural Y Educativa Jatun Nani,Lima,Lima,La Molina,cultura / educación / género
+204,Asociacion De Accion Andina,Ayacucho,Ayacucho,Ayacucho,agropecuario / economía / educación / género / gobernabilidad / inclusión social / salud
+205,Asociacion De Apoyo A La Produccion Caprina,Lima,Lima,Carabayllo,ambiente / vivienda y saneamiento
+206,Asociacion De Apoyo Y Promocion Del Excepcional Yancana Huasy,Lima,Lima,San Juan De Lurigancho,género
+207,"Asociacion De Artesan@S De Contumaza ""Arte De Rueca Y Crochet""",Cajamarca,Cajamarca,Contumaza,producción
+208,Asociacion De Ayuda Al Niño Quemado,Lima,Lima,Jesus Maria,educación / género / inclusión social / salud
+209,Asociacion De Comunicadores Sociales Calandria,Lima,Lima,Magdalena Del Mar,educación / género / justicia / transportes y comunicaciones
+210,Asociacion De Comunidades Agro Industriales Y Forestales Bambu - Ucayali,Ucayali,Ucayali,Manantay,producción
+211,"Asociacion De Comunidades Ashaninka Del Valle Del Pichis, Apatyawaka Nampitzi Ashaninka Pichis",Pasco,Pasco,Puerto Bermudez,género
+212,Asociacion De Conservacion Ecologica Tumbes Silvestre,Tumbes,Tumbes,Tumbes,ambiente / educación
+213,Asociacion De Construccion Civil Multiple Empresarial Y Artesanal De Paita,Piura,Piura,Paita,género
+214,Asociacion De Cooperativas Agrarias De La Amazonia Peruana - Verde Amazonico,San Martin,San Martin,Tarapoto,agropecuario
+215,Asociacion De Defensa Y Desarrollo De Las Comunidades Andinas Del Peru,Lima,Lima,Jesus Maria,género / justicia / salud
+216,"Asociacion De Desarrollo Agropecuario Y Cuidado Del Medio Ambiente ""Tesoro Ecologico""",Huanuco,Huanuco,Huanuco,ambiente / gobernabilidad / producción
+217,Asociacion De Desarrollo De Capacidades Locales,Ica,Ica,Ica,agropecuario / ambiente / educación / género / vivienda y saneamiento
+218,Asociacion De Desarrollo De La Educacion Y La Salud,Lima,Lima,Miraflores,educación / salud
+219,Asociacion De Desarrollo Integral De La Poblacion Jaenense,Cajamarca,Cajamarca,Jaen,ambiente / educación / salud
+220,Asociacion De Desarrollo Minka Tarpuy,Lima,Lima,San Isidro,ambiente / inclusión social
+221,Asociacion De Desarrollo Social Carpe Diem,Ica,Ica,Chincha Alta,inclusión social
+222,Asociacion De Desarrollo Social Lestonnac,La Libertad,La Libertad,Chepen,ciencia y tecnología / economía / educación / género / gobernabilidad / trabajo
+223,Asociacion De Desarrollo Socio Ambiental Integral - Adsai,Lambayeque,Lambayeque,Chiclayo,ambiente / educación
+224,Asociacion De Desarrollo Y Solidaridad,San Martin,San Martin,Rioja,educación / género / salud
+225,Asociacion De Directores De Bandas Sinfonicas Del Peru,Arequipa,Arequipa,Yanahuara,educación / género
+226,Asociacion De Enfermos De Tuberculosis Victoria Castillo De Canales-Comas,Lima,Lima,Comas,género / salud
+227,Asociacion De Exportadores,Lima,Lima,San Borja,educación / producción
+228,Asociacion De Familias Desplazadas Insertadas En La Provincia De Huanta,Ayacucho,Ayacucho,Huanta,ciencia y tecnología / educación / gobernabilidad / inclusión social / producción / salud / trabajo / vivienda y saneamiento
+229,Asociacion De Fomento E Investigacion Para El Desarrollo De Cajamarca,Cajamarca,Cajamarca,Cajamarca,educación
+230,Asociacion De Hogares Nuevo Futuro - Peru,Lima,Lima,Barranco,educación / género / inclusión social
+231,Asociacion De Ingenieros Ambientales Del Peru,Ayacucho,Ayacucho,San Juan Bautista,ambiente
+232,Asociacion De Jovenes Progresistas,La Libertad,La Libertad,Trujillo,educación / producción / trabajo
+233,Asociacion De La Cultura Italiana Susana Agnelli,Piura,Piura,Castilla,educación
+234,Asociacion De Madereros Y Reforestadores De Curimana,Ucayali,Ucayali,Curimana,ambiente / educación / género / inclusión social
+235,Asociacion De Mujeres Emprendedoras Del Distrito De Buenos Aires - Morropon,Piura,Piura,Buenos Aires,ambiente / género
+236,Asociacion De Mujeres Para El Desarrollo Integral Sostenible Del Peru,La Libertad,La Libertad,Victor Larco Herrera,género / salud
+237,Asociacion De Personas Afectadas Por Tuberculosis Del Peru,Lima,Lima,Los Olivos,educación / salud
+238,Asociacion De Personas Con Discapacidad Santa Barbara,La Libertad,La Libertad,Trujillo,género
+239,Asociacion De Pobladores De Huacablanca Para El Desarrollo Y Defensa De Sus Derechos E Intereses,Lambayeque,Lambayeque,Chongoyape,educación / gobernabilidad
+240,"Asociacion De Prevencion, Desarrollo Social Y Bienestar Espiritual",Lima,Lima,Jesus Maria,educación / salud
+241,Asociacion De Productores Agrarios Ecologicos Grano De Oro,San Martin,San Martin,Lamas,educación / género / gobernabilidad
+242,Asociacion De Productores Agrarios Y Madereros Cataratas De Osurco Organismo No Gubernamental De Desarrollo,Cajamarca,Cajamarca,Jaen,género
+243,Asociacion De Productores Agropecuarios La Monteria,Lambayeque,Lambayeque,Chongoyape,ambiente / educación / género / salud
+244,Asociacion De Productores Cacaoteros Y Cafetaleros De Amazonas,Amazonas,Amazonas,Bagua,agropecuario
+245,Asociacion De Promocion Agraria Y Defensa De La Vida,La Libertad,La Libertad,El Porvenir,agropecuario
+246,Asociacion De Promocion Cultural Ayllu,La Libertad,La Libertad,Trujillo,educación
+247,Asociacion De Promocion Y Bienestar Familiar,Arequipa,Arequipa,Cerro Colorado,género / salud
+248,Asociacion De Promocion Y Desarrollo Social,Lima,Lima,Santiago De Surco,agropecuario / educación / género / gobernabilidad / inclusión social / salud / vivienda y saneamiento
+249,"Asociacion De Promotores Para La Generacion De Recursos, Educacion Y Cultura, Salud, Alimentacion Y Cuidado Del Medio Ambiente, Con Gestion Social Responsable",Lima,Lima,Villa El Salvador,inclusión social
+250,Asociacion De Proteccion Al Ambiente Para Una America Latina Libre De Contaminacion,Ancash,Ancash,Huaraz,ambiente / educación
+251,Asociacion De Proteccion De Bosques Comunales Dos De Mayo - Alto Huayabamba,San Martin,San Martin,Huicungo,ambiente
+252,Asociacion De Rehabilitacion Infantil Angelitos De Dios,Lima,Lima,Carabayllo,salud / trabajo
+253,Asociacion De Servicio Integral De Cooperacion Rural Anccara - Sicra,Huancavelica,Huancavelica,Lircay,ambiente / educación / género / gobernabilidad / producción / salud
+254,Asociacion De Trabajadores Sociales Benefactores De Servicios Multiples Las Mercedes,Lima,Lima,Breña,género / inclusión social
+255,Asociacion De Victimas De Accidentes De Transito,Lima,Lima,Santiago De Surco,salud
+256,Asociacion De Yachachiq Solidaridad Colectiva Para El Desarrollo,Piura,Piura,Piura,agropecuario / salud
+257,Asociacion Defensa Por El Patrimonio Cultural Y Humano,Lima,Lima,Lima,educación
+258,Asociacion Del Desarrollo Rural Y Humanitario,Huanuco,Huanuco,Huanuco,agropecuario / ambiente / ciencia y tecnología / economía / género
+259,Asociacion Del Programa De Desarrollo De Tocache Prodesat,San Martin,San Martin,Tocache,educación / género
+260,"Asociacion Deportiva, Educativa Y Cultural, Escuela Kubil",Lima,Lima,Pueblo Libre,educación
+261,Asociacion Diabet´S Control,Ica,Ica,Ica,género
+262,Asociacion Dignidad Humana Y Solidaridad,Lima,Lima,Surquillo,género
+263,Asociacion Dignidad Peru,Loreto,Loreto,Iquitos,educación / género / salud / vivienda y saneamiento
+264,Asociacion Ecologica Pumamayu - Pumamayu,Ayacucho,Ayacucho,Ayacucho,ambiente
+265,Asociacion Ecologica Sacha Runa,San Martin,San Martin,Sauce,ambiente
+266,Asociacion Ecosistemas Andinos,Cusco,Cusco,Wanchaq,ambiente
+267,Asociacion Educa Pacifico San Felipe,Lima,Lima,Comas,educación / género
+268,Asociacion Educacion Para El Desarrollo Amazonico,Loreto,Loreto,Yurimaguas,educación
+269,Asociacion Educativa Informatica Para El Desarrollo,Lima,Lima,Lima,género / trabajo
+270,Asociacion Educativa Wiñaypaq,Cusco,Cusco,Taray,ambiente / salud
+271,Asociacion Ejecutor De Contrato De Administracion De Reserva Comunal Machiguenga,Cusco,Cusco,Santa Ana,ambiente / género
+272,Asociacion Emmanuel,Lima,Lima,Jesus Maria,educación / género / gobernabilidad / inclusión social / salud
+273,Asociacion Emprende Ideas Peru,Cajamarca,Cajamarca,Jaen,inclusión social
+274,Asociacion Empresarios Por La Educacion,Lima,Lima,Miraflores,educación
+275,Asociacion Equilibrio,Lima,Lima,Jesus Maria,educación / salud
+276,Asociacion Especializada En Desarrollo Rural Alternativo - Apurimac,Apurimac,Apurimac,Abancay,educación
+277,Asociacion Especializada Para El Desarrollo Sostenible,Arequipa,Arequipa,Arequipa,gobernabilidad
+278,Asociacion Esperanza Para La Vida,La Libertad,La Libertad,Victor Larco Herrera,género / salud
+279,"Asociacion Esperanza, Agua Y Vida",Lima,Lima,Jesus Maria,ambiente / educación / vivienda y saneamiento
+280,Asociacion Evangelica De Cooperacion Manos Unidas - Asecomu,Lima,Lima,Chancay,educación / salud
+281,Asociacion Familia Sana,Cajamarca,Cajamarca,Cajamarca,ciencia y tecnología / educación / género / gobernabilidad / inclusión social / salud
+282,Asociacion Familias En Accion,Lima,Lima,Surquillo,género
+283,Asociacion Fe Y Alegria Del Peru,Lima,Lima,Jesus Maria,educación
+284,Asociacion Fomento Y Promocion Para El Desarrollo Andino - Fodesa,Junin,Junin,Junin,ambiente / gobernabilidad / trabajo
+285,Asociacion Franco Peruana De Fomento Al Desarrollo Arequipa,Arequipa,Arequipa,Socabaya,educación / género / gobernabilidad / inclusión social / salud
+286,Asociacion Generadora De Actividades Productivas Y El Bienestar Familiar Del Peru,Lima,Lima,Jesus Maria,educación / género / salud
+287,Asociacion Giuseppe Antonio Mungi Armitano,Lima,Lima,Barranco,género
+288,Asociacion Grupo De Trabajo Redes,Lima,Lima,Miraflores,educación / género / justicia / salud / transportes y comunicaciones
+289,Asociacion Hatun Nuna Para El Desarrollo Social,Ancash,Ancash,Independencia,educación / género
+290,Asociacion Holanda,Cajamarca,Cajamarca,Cajamarca,género
+291,Asociacion Huampumayo,Pasco,Pasco,Oxapampa,ambiente
+292,"Asociacion Illariy Para El Desarrollo De La Region, Asider",Cusco,Cusco,Sicuani,agropecuario / gobernabilidad / producción
+293,Asociacion Indigena Fuerza Y Coraje Para El Desarrollo De Nuestras Comunidades,Junin,Junin,El Tambo,género / inclusión social
+294,Asociacion Iniciativa Para El Desarrollo,Lima,Lima,San Borja,gobernabilidad / inclusión social
+295,Asociacion Instituto De Vigilancia Especializada En Oftalmologia - Ong´D,Ica,Ica,Ica,educación / salud
+296,Asociacion Integral La Aurora De Paracas,Ica,Ica,San Andres,ambiente / educación / salud
+297,Asociacion Integral Para El Desarrollo Del Pais (Asidep),Lima,Lima,Lima,género
+298,Asociacion Integratorias Humanitarias De Desarrollo,Lima,Lima,Pueblo Libre,educación / género
+299,Asociacion Interdenominacional Para El Desarrollo Integral De Apurimac,Apurimac,Apurimac,Abancay,educación / inclusión social
+300,Asociacion Interetnica De Desarrollo De La Selva Peruana,Lima,Lima,La Victoria,cultura / educación / gobernabilidad / salud
+301,Asociacion Internacional Mensajeros De La Paz,Lima,Lima,Chorrillos,educación / género / gobernabilidad / inclusión social / justicia
+302,Asociacion Investigaciones Educativas Cientificas,Lima,Lima,Chorrillos,educación
+303,Asociacion Irakapampa - Asirak Adgentes,La Libertad,La Libertad,Cochorco,género / gobernabilidad
+304,"Asociacion Ius Gentium Para El Desarrollo Sostenible, Seguridad Humana Y Fortalecimiento Institucional En Grupos Vulnerables Y Excluidos",San Martin,San Martin,Moyobamba,ambiente / educación / gobernabilidad / salud
+305,Asociacion Jaconrate de la Comunidad de Limon Gema,Ucayali,Ucayali,Manantay,agropecuario
+306,Asociacion Jepelacio Selva Viva,San Martin,San Martin,Moyobamba,ambiente / género / vivienda y saneamiento
+307,Asociacion Jesus Obrero,Cusco,Cusco,Andahuaylillas,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social / producción
+308,Asociacion Jilata,Tacna,Tacna,Tacna,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad / trabajo
+309,Asociacion Jorge Idiaquez Lealtad,Lima,Lima,Breña,educación / género / salud
+310,Asociacion Jrc Catunta Para La Conservacion De La Flora Y Fauna Silvestre,Puno,Puno,Pisacoma,ambiente
+311,Asociacion Juntos En Accion Para El Desarrollo De Los Pueblos,Lima,Lima,San Juan De Miraflores,educación
+312,Asociacion Kallpa para la Promocion Integral de la Salud y el Desarrollo,Lima,Lima,La Victoria,educación / género / salud
+313,Asociacion Kana - Ayacucho,Ayacucho,Ayacucho,Ayacucho,género
+314,Asociacion Kantu - Sembrando Esperanza,Lima,Lima,San Martin De Porres,género / salud
+315,Asociacion Keep,Ucayali,Ucayali,Calleria,ambiente
+316,Asociacion Know & Do,Lima,Lima,Los Olivos,educación / trabajo
+317,Asociacion Kunaq Yachay,Lima,Lima,Villa El Salvador,educación
+318,Asociacion Kusi Warma,Lima,Lima,San Miguel,educación / género / inclusión social
+319,Asociacion Kuskanchik por las Personas con Discapacidad,Ayacucho,Ayacucho,Ayacucho,género
+320,Asociacion La Huella En El Bosque,Lima,Lima,Barranco,género
+321,Asociacion La Restinga,Loreto,Loreto,Iquitos,género / gobernabilidad / vivienda y saneamiento
+322,Asociacion Laboral Para El Desarrollo,Lima,Lima,Magdalena Del Mar,trabajo
+323,Asociacion Latinoamericana De Biotecnologia,Lima,Lima,Lince,salud / vivienda y saneamiento
+324,Asociacion Medio Ambiental Q´Umir Allpa,Junin,Junin,El Tambo,ambiente / educación
+325,Asociacion Mejorando Vidas Hemodialisis Peru,Lima,Lima,Surquillo,género / salud
+326,Asociacion Minga Peru,Lima,Lima,Miraflores,agropecuario
+327,Asociacion Ministerio Diaconal Paz Y Esperanza,Lima,Lima,Jesus Maria,economía / educación / género / justicia
+328,Asociacion Misionera De Obra Social,Lima,Lima,Ate,educación / género
+329,Asociacion Misionera Para La Orientacion En La Realidad,Ucayali,Ucayali,Calleria,gobernabilidad / inclusión social / trabajo
+330,Asociacion Mujer Familia,Cajamarca,Cajamarca,Cajamarca,ciencia y tecnología / cultura / economía / educación / género / gobernabilidad / inclusión social
+331,Asociacion Mujer Sana,Cusco,Cusco,Santiago,salud
+332,Asociacion Mujeres De Accion - Organismo No Gubernamental,Arequipa,Arequipa,Arequipa,educación / género / salud
+333,Asociacion Mujeres En Accion (Ama),La Libertad,La Libertad,Trujillo,educación / género / gobernabilidad / inclusión social / producción
+334,Asociacion Multidisciplinaria Uj Maya,Tacna,Tacna,Tacna,educación / género / gobernabilidad
+335,Asociacion Mundo Salud,La Libertad,La Libertad,Trujillo,salud
+336,Asociacion Nacional De Desarrollo Educativo Ecologico Y Social Andees Pachatusan,Cusco,Cusco,San Sebastian,ambiente / salud
+337,Asociacion Nacional De Ejecutores De Contratos De Administracion De Las Reservas Comunales Del Peru,Lima,Lima,Lince,ambiente / gobernabilidad / inclusión social
+338,Asociacion Nacional De Institutos De Desarrollo Del Sector Informal,Lima,Lima,San Isidro,ciencia y tecnología / economía / educación / género / gobernabilidad / producción / trabajo
+339,Asociacion Nacional De Investigacion Proyectos Apoyo Al Desarrollo - Anipad,Lima,Lima,Santa Anita,agropecuario / educación
+340,Asociacion Nacional De Productores Ecologicos Del Peru,Lima,Lima,Jesus Maria,ambiente
+341,Asociacion Negra De Defensa Y Promocion De Los Derechos Humanos,Lima,Lima,Lima,educación / justicia
+342,Asociacion Niños Del Arco Iris,Cusco,Cusco,Urubamba,educación / inclusión social / salud
+343,Asociacion No Gubernamental Rural Amazonica Andina Choba Choba,San Martin,San Martin,Tarapoto,agropecuario / educación
+344,Asociacion Nuevos Pasos,La Libertad,La Libertad,El Porvenir,ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / salud
+345,Asociacion Nutricion Y Salud,Lima,Lima,Miraflores,salud
+346,Asociacion Ñan,Lambayeque,Lambayeque,Mochumi,educación / género
+347,Asociacion Okinawense Del Peru,Lima,Lima,Ate,educación / género
+348,Asociacion Ong Biodiversidad Indigena,Ucayali,Ucayali,Yarinacocha,producción / salud
+349,Asociacion Ong Linaje Real,Arequipa,Arequipa,Arequipa,educación / género
+350,Asociacion Ong. Educacion Superior,Piura,Piura,Marcavelica,educación / salud
+351,Asociacion Ongd Para El Desarrollo Humano Sostenible En El Peru,Junin,Junin,Pilcomayo,género / gobernabilidad
+352,Asociacion Oportunidad De Progreso (Opro),Lima,Lima,La Molina,educación / salud
+353,Asociacion Oportunidades Para La Vida,Ayacucho,Ayacucho,Huanta,ambiente / educación / género / salud
+354,Asociacion Organismo No Gubernamental - Asociacion Educativa Para El Desarrollo Hatarisun,Apurimac,Apurimac,Andahuaylas,gobernabilidad
+355,Asociacion Organismo No Gubernamental De Desarrollo Centro De Investigacion Para El Desarrollo Sostenible De La Region Moquegua,Moquegua,Moquegua,Samegua,educación / género
+356,Asociacion Organizacion No Gubernamental De Desarrollo Amazonico Sostenible Madre De Dios,Madre De Dios,Madre De Dios,Tambopata,género / gobernabilidad
+357,Asociacion Orquestas Infantiles Y Juveniles Del Peru,Lima,Lima,Miraflores,educación
+358,Asociacion Pacha Uyway,Ayacucho,Ayacucho,Ayacucho,agropecuario / ambiente / economía / educación / género / gobernabilidad / trabajo
+359,Asociacion Para Apoyo Social Y Empoderamiento Del Ciudadano - Collik Renace,Lima,Lima,Comas,ambiente / educación / inclusión social / justicia / producción / trabajo / vivienda y saneamiento
+360,Asociacion Para El Desarrollo Agrario Y Ambiental Kotosh Peru - Ongd,Huanuco,Huanuco,Amarilis,ambiente / educación
+361,Asociacion Para El Desarrollo Agroecologico Y Regional,Lima,Lima,Lurigancho,agropecuario / ciencia y tecnología
+362,Asociacion Para El Desarrollo Ambiental De Moquegua,Moquegua,Moquegua,Moquegua,ambiente
+363,Asociacion Para El Desarrollo Andino Amazonico Huñuq Mayu,Apurimac,Apurimac,Andahuaylas,educación / salud
+364,Asociacion Para El Desarrollo Comunal Sunchubamba,La Libertad,La Libertad,La Esperanza,ambiente / gobernabilidad
+365,Asociacion Para El Desarrollo De Ancash Y Zonas Aledañas,Ancash,Ancash,Carhuaz,educación / género / salud
+366,Asociacion Para El Desarrollo De La Enseñanza Universitaria,Lima,Lima,Miraflores,educación / salud
+367,Asociacion Para El Desarrollo De La Niñez En El Peru,Apurimac,Apurimac,Abancay,género / salud
+368,Asociacion Para El Desarrollo De La Sanidad Y La Medicina,Lima,Lima,Miraflores,ambiente / educación / salud
+369,"Asociacion Para El Desarrollo Del Programa Biocacao Aromatico ""Programa Biocacao""",Ucayali,Ucayali,Neshuya,ambiente
+370,Asociacion Para El Desarrollo Economico Del Peru,Cusco,Cusco,Santiago,agropecuario / ciencia y tecnología / economía / educación / gobernabilidad / producción / trabajo
+371,Asociacion Para El Desarrollo Economico Social,Ayacucho,Ayacucho,Ayacucho,inclusión social
+372,Asociacion Para El Desarrollo Economico Social Finandes,Lima,Lima,San Miguel,educación
+373,Asociacion Para El Desarrollo Equitativo Sustentable,Lima,Lima,La Molina,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / producción / salud / trabajo / vivienda y saneamiento
+374,Asociacion Para El Desarrollo Humano Integral Sostenible Ayllu Peru,Ayacucho,Ayacucho,Huanta,ambiente / educación
+375,Asociacion Para El Desarrollo Inclusivo Integral Y Sostenible De La Poblacion Peruana,Ayacucho,Ayacucho,Ayacucho,género
+376,Asociacion Para El Desarrollo Integral Alternativo Regional,Cajamarca,Cajamarca,Cajamarca,educación / género
+377,Asociacion Para El Desarrollo Integral De La Persona Cusca Risun Peru,Lima,Lima,San Borja,agropecuario / economía / educación / energía/extractiva
+378,Asociacion Para El Desarrollo Integral De La Selva Peruana (Adisel Peru),Lima,Lima,San Martin De Porres,agropecuario / inclusión social / salud
+379,Asociacion Para El Desarrollo Integral Shalom,Lima,Lima,Lima,género / trabajo
+380,Asociacion Para El Desarrollo Integral Y Sostenible De Los Pueblos Andino Amazonicos,Huanuco,Huanuco,Huanuco,ambiente / educación / inclusión social / salud
+381,Asociacion Para El Desarrollo Rikchari,Apurimac,Apurimac,Andahuaylas,educación
+382,Asociacion Para El Desarrollo Rural - Urbano,Callao,Callao,La Perla,educación / gobernabilidad / inclusión social
+383,Asociacion Para El Desarrollo Social Ambiental Y Tecnologico Llapa Tukuy,Huanuco,Huanuco,Amarilis,ambiente / educación / salud
+384,Asociacion Para El Desarrollo Social Sostenible,Huanuco,Huanuco,Amarilis,agropecuario / ambiente / educación / género / salud
+385,Asociacion Para El Desarrollo Sostenible Cajamarca,Cajamarca,Cajamarca,Cajamarca,agropecuario / ambiente / gobernabilidad
+386,Asociacion Para El Desarrollo Sostenible Del Peru,Lima,Lima,San Isidro,educación / género / salud
+387,Asociacion Para El Desarrollo Sostenible Mundial,Lambayeque,Lambayeque,Cayalti,educación / salud
+388,Asociacion Para El Desarrollo Y Conservacion De Los Recursos Naturales Peru - Acrenap,Junin,Junin,Coviriali,agropecuario / ambiente
+389,"Asociacion Para El Desarrollo, Educacion Y Ecologia",Junin,Junin,El Tambo,agropecuario / salud
+390,"Asociacion Para El Desarrollo, Investigacion, Produccion Ecologica Sostenible Y De Servicios",Junin,Junin,El Tambo,agropecuario / inclusión social
+391,Asociacion Para El Mejoramiento De La Educacion Basica De Piura,Lima,Lima,Pueblo Libre,educación
+392,Asociacion Para El Progreso Emprendedor Y Desarrollo De Inclusion Social,Lima,Lima,Huacho,educación / género
+393,"Asociacion Para La Conservacion Ambiental, Seguridad Alimentaria Y Cultura - Acasayc",Callao,Callao,Bellavista,ambiente / educación / género
+394,Asociacion Para La Conservacion De Ambientes Marinos Y Costeros,Lima,Lima,La Molina,educación
+395,Asociacion Para La Conservacion De La Biodiversidad En El Peru - Perla Del Pachitea,Huanuco,Huanuco,Puerto Inca,ambiente
+396,Asociacion Para La Conservacion De La Cuenca Amazonica,Lima,Lima,Miraflores,agropecuario / ambiente
+397,Asociacion Para La Conservacion Del Patrimonio Cultural Amazonico,Lima,Lima,Jesus Maria,agropecuario
+398,Asociación para la Conservación y Uso Sostenible de la Biodiversidad Agricola,Junin,Junin,San Pedro De Cajas,agropecuario / ambiente
+399,"Asociación para la Cooperación, Bienestar y Desarrollo Integral Humanitario",La Libertad,La Libertad,Laredo,ambiente / educación / género
+400,"Asociación para la Educación Ecológica y Desarrollo Sostenible ""Crece Perú""",Junin,Junin,Pilcomayo,ambiente / género
+401,Asociación para la Formación Humana y Capacitación Técnica,Lima,Lima,Comas,ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / trabajo
+402,Asociación para La Formación y el Desarrollo del Perú,La Libertad,La Libertad,Victor Larco Herrera,ambiente / educación / género
+403,"Asociación para la Inclusión y Acción Social ""Socias Perú ONGD""",Ayacucho,Ayacucho,Ayacucho,ambiente / género
+404,Asociacion para la Investigacion y Desarrollo Humano,Piura,Piura,Piura,ambiente
+405,Asociación para la Investigación y Desarrollo Integral,Lima,Lima,San Isidro,ambiente
+406,Asociación para la Investigación y Desarrollo Sostenible Suma Marka - Ongd,Puno,Puno,Puno,ambiente / género
+407,"Asociación para la Investigación, Promoción Integral y el Desarrollo Social",Junin,Junin,Huancayo,género
+408,Asociación para la Naturaleza y el Desarrollo Sostenible,Cusco,Cusco,Wanchaq,agropecuario / ambiente
+409,Asociación para la Niñez y su Ambiente,Lima,Lima,Magdalena Del Mar,ambiente / cultura / educación / salud
+410,Asociación para la Promoción de la Educacion Rural y el Desarrollo de Apurimac Tarpurisunchis,Apurimac,Apurimac,Tamburco,educación
+411,Asociación para la Promoción del Desarrollo Humano,Cusco,Cusco,Wanchaq,género / gobernabilidad
+412,Asociacion Para Proyectos Sostenibles Multisectoriales Urbano Rural,Junin,Junin,El Tambo,ambiente / educación / salud
+413,Asociacion Paso Firme,Lima,Lima,San Miguel,género / salud
+414,Asociacion Pataz,La Libertad,La Libertad,Trujillo,inclusión social
+415,Asociacion Paz - Peru - Organismo No Gubernamental,Arequipa,Arequipa,Socabaya,educación
+416,Asociacion Paz Holandesa,Arequipa,Arequipa,Paucarpata,género / salud
+417,Asociacion Peru Yantalo Foundation,Lima,Lima,Miraflores,género / salud
+418,Asociacion Peruana A.T.D. Cuarto Mundo,Cusco,Cusco,Cusco,educación / género
+419,Asociacion Peruana De Consumidores Y Usuarios,Lima,Lima,Miraflores,educación
+420,Asociacion Peruana De Prevencion De La Sordera Y Ayuda Al Discapacitado Auditivo - Uyari,Lima,Lima,Miraflores,salud
+421,Asociacion Peruana De Productores De Cacao,Lima,Lima,Magdalena Del Mar,agropecuario / ambiente / género / gobernabilidad
+422,Asociacion Peruana Del Bambu,Lima,Lima,La Molina,agropecuario / ambiente
+423,Asociacion Peruana Ecologista Y De Interes Conservacionista En America,Piura,Piura,Sullana,agropecuario / ambiente / educación / gobernabilidad / producción / trabajo
+424,Asociacion Peruana Mujer Y Familia,Callao,Callao,Callao,inclusión social / salud
+425,Asociacion Peruana Para El Desarrollo Integral De La Mineria Artesanal,Lima,Lima,Chorrillos,educación / inclusión social
+426,Asociacion Peruana Para La Conservacion De La Naturaleza,Lima,Lima,Magdalena Del Mar,ambiente / educación
+427,Asociacion Peruana Para La Promocion Del Desarrollo Sostenible,Lima,Lima,Santiago De Surco,agropecuario / ambiente / ciencia y tecnología / educación / producción / trabajo
+428,Asociacion Peruana Para La Seguridad Alimentaria Y Nutricional,Lima,Lima,San Isidro,salud
+429,Asociacion Peruana Refugio Para Mujeres Maltratadas Maria Auxiliadora,Lima,Lima,San Miguel,educación / género
+430,Asociacion Peruano - Japonesa Cusco,Cusco,Cusco,Santiago,género
+431,Asociacion Peruano Japonesa,Lima,Lima,Jesus Maria,cultura / inclusión social / salud
+432,Asociacion Peruano Japonesa De La Provincia De Huaral,Lima,Lima,Huaral,educación / inclusión social
+433,Asociacion Peru-Austria Internacional,Lima,Lima,Miraflores,ambiente / educación / género / producción / salud
+434,Asociacion Picaflor House,Cusco,Cusco,Wanchaq,educación / salud
+435,Asociacion Por El Equilibrio Ecologico Fuente De Desarrollo,Huanuco,Huanuco,Rupa-Rupa,agropecuario / ambiente
+436,Asociacion Por Eso Peru,Cusco,Cusco,Calca,educación / género
+437,"Asociacion Por La Recuperacion Y Conservacion De La Biodiversidad ""Wiñay Causaq""",Cusco,Cusco,Cusco,agropecuario / ambiente / inclusión social
+438,Asociacion Por La Vida,Piura,Piura,Piura,educación / género / salud
+439,Asociacion Por Los Derechos Del Niño Con Cancer,Lima,Lima,Lima,género / salud
+440,Asociacion Por Los Neuro Discapacitados Del Peru,Lima,Lima,Santiago De Surco,salud
+441,Asociacion Posada De Belen Chorrillos,Lima,Lima,Chorrillos,género
+442,Asociacion Pro Bienestar Y Desarrollo Probide,Lima,Lima,La Molina,producción / trabajo
+443,Asociacion Pro Derechos Humanos,Lima,Lima,Jesus Maria,cultura / educación / gobernabilidad / inclusión social / justicia
+444,Asociacion Pro Desarrollo Integral De Altiplano,Puno,Puno,Puno,género / salud
+445,Asociacion Promocion De La Gestion Rural Economica Y Social,Piura,Piura,Castilla,agropecuario / ambiente / gobernabilidad
+446,"Asociacion Promotora De Vivienda, Agroindustria, Turismo, Ecologia Y Energia De La Region Nor Oriental Del Marañon Viagrotur",Cajamarca,Cajamarca,Jaen,ambiente / energía/extractiva / género / producción
+447,Asociacion Promotora Integral De Desarrollo Social,La Libertad,La Libertad,Moche,ambiente / género / inclusión social
+448,"Asociacion Promotora Para La Educacion, Medio Ambiente Y Agricultura",Lambayeque,Lambayeque,Illimo,ambiente / educación
+449,Asociacion Promoviendo Valores,Junin,Junin,Huancayo,justicia / producción
+450,Asociacion Propuesta Latina,Lima,Lima,San Miguel,ambiente / género / salud / trabajo
+451,Asociacion Propurus,Ucayali,Ucayali,Yarinacocha,ambiente
+452,Asociacion Proteccion Ambiental Y Desarrollo Sostenible,Junin,Junin,Huancayo,ambiente / educación / salud
+453,Asociacion Proyeccion,Arequipa,Arequipa,Arequipa,género
+454,Asociacion Proyecto De Desarrollo Vida Buena,Cajamarca,Cajamarca,Cajamarca,agropecuario / educación / producción / salud
+455,Asociacion Proyecto Gamaliel - Las Asambleas De Dios Del Peru,Callao,Callao,Ventanilla,educación
+456,Asociacion Proyecto Integral De Las Comunidades,Ayacucho,Ayacucho,Ayacucho,ambiente
+457,Asociacion Proyecto Mono Tocon,San Martin,San Martin,Moyobamba,ambiente
+458,Asociacion Proyecto Peruanos,Lima,Lima,Santiago De Surco,educación
+459,Asociacion Proyectos Peru,Ucayali,Ucayali,Yarinacocha,género
+460,Asociacion Pueblo Indigena En Accion,Cusco,Cusco,Wanchaq,género
+461,Asociacion Pukllasunchis,Cusco,Cusco,Cusco,ambiente / ciencia y tecnología / cultura / educación / gobernabilidad / justicia / trabajo
+462,Asociacion Qolla Aymara,Puno,Puno,Puno,cultura / género
+463,Asociacion Qosqo Maki,Cusco,Cusco,Cusco,cultura / género / inclusión social / salud
+464,Asociacion Quinua Wasi,Puno,Puno,Puno,agropecuario
+465,Asociacion Red de Apoyo Solidario del Buen Pastor en el Perú - RAS,Lima,Lima,Magdalena Del Mar,género / producción
+466,Asociacion Red Innova,Lima,Lima,Jesus Maria,educación / género / salud
+467,Asociacion Red Peruana De Divulgadores Cientificos,Lima,Lima,Santiago De Surco,educación
+468,Asociacion Red Suma,Lima,Lima,Jesus Maria,género
+469,Asociación Religiosa Caritas de la Prelatura de Sicuani,Cusco,Cusco,Sicuani,género
+470,Asociacion Runayay,Lima,Lima,Ate,educación / género / salud
+471,Asociacion Sabavida Mejorando tu Vida,Cusco,Cusco,Wanchaq,ambiente
+472,Asociacion Sabiduria Indigena Y Blanca Unido por una Existencia Natural y Oportuna,Loreto,Loreto,Iquitos,ambiente / producción / salud
+473,Asociacion Sach´A Munay,Cusco,Cusco,Calca,educación
+474,Asociacion Salud Educacion Sobrevivir Tambogrande,Piura,Piura,Tambo Grande,educación / gobernabilidad / vivienda y saneamiento
+475,Asociacion Salvando Mi Planeta,Ica,Ica,Ica,ambiente / educación
+476,Asociacion San Lucas - San Martin,San Martin,San Martin,Moyobamba,agropecuario / ambiente / ciencia y tecnología / educación / gobernabilidad / salud / trabajo / vivienda y saneamiento
+477,Asociacion Savia Andina Pukara,Puno,Puno,Ayaviri,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad
+478,Asociacion Sayariy - Resurgiendo,La Libertad,La Libertad,Trujillo,educación
+479,Asociacion Semillas De Cambio,Lima,Lima,Pueblo Libre,educación / inclusión social
+480,Asociacion Semillas Para El Desarrollo Sostenible,Junin,Junin,Pangoa,educación / género
+481,Asociacion Servicios Ecosistemicos Peru,Lima,Lima,Lima,ambiente
+482,Asociacion Servicios Educativos Rurales,Lima,Lima,Magdalena del Mar,gobernabilidad / vivienda y saneamiento
+483,Asociacion Shura,Junin,Junin,Satipo,ambiente / género / gobernabilidad
+484,Asociacion Sin Fines De Lucro Wawasonqo,Cusco,Cusco,Cusco,salud
+485,Asociacion Sin Fines De Lucro: Caritas Sin Lagrimas - Peru,Lima,Lima,San Juan De Miraflores,educación / género / salud
+486,"Asociacion Sin Fronteras Para El Apoyo Y El Desarrollo De La Educacion, Salud Y Ambiente",La Libertad,La Libertad,Trujillo,género
+487,Asociacion Sistemas B Peru,Lima,Lima,Chorrillos,educación
+488,Asociacion Solidaria Y Asistencial Cambiando Vidas,La Libertad,La Libertad,Trujillo,ambiente / educación
+489,Asociacion Solidaridad Cristiana Ayudanos A Ayudar,Loreto,Loreto,Yurimaguas,salud
+490,Asociacion Solidaridad Integrando Yacus Al Peru,Lima,Lima,Breña,ambiente / género
+491,Asociacion Solidaridad Peru Alemania,Lima,Lima,San Juan de Lurigancho,educación / inclusión social
+492,Asociacion Solidaridad Wanka,Junin,Junin,El Tambo,género
+493,"Asociacion Solidaridad, Verdad Y Tecnologia",Ancash,Ancash,Chimbote,género
+494,Asociacion Solucion Verde,Ucayali,Ucayali,Calleria,ambiente / educación
+495,Asociacion Suma Qamaña Para La Educacion Y Desarrollo Sostenible,Puno,Puno,Puno,ambiente / educación
+496,Asociacion Sumaq Illari,Lima,Lima,Puente Piedra,cultura / educación / salud
+497,Asociacion Sut´  Iyay,Cajamarca,Cajamarca,Los Baños Del Inca,ambiente / comercio y turismo
+498,Asociacion Suyay Peru,Lima,Lima,Miraflores,ambiente / educación
+499,Asociacion T´Ikani,Junin,Junin,Huancayo,educación
+500,Asociacion Taller De Los Niños,Lima,Lima,Magdalena Del Mar,cultura / salud / trabajo
+501,Asociacion Tarpusunchis,Lima,Lima,Jesus Maria,agropecuario / educación / salud
+502,Asociacion Tarpuy Formando La Nueva Generacion,Lima,Lima,Vegueta,salud
+503,Asociacion Tawantinsuyuman Evangelioq K´Ancharinanpaq,Cusco,Cusco,San Jeronimo,género
+504,Asociacion Tecnica Desarrollo Economico Social Ambiental,Lambayeque,Lambayeque,Jose Leonardo Ortiz,agropecuario / ambiente / energía/extractiva / gobernabilidad / inclusión social
+505,Asociacion Tecnologia Ecologia Y Desarrollo,Lima,Lima,Surquillo,género / producción
+506,Asociacion Tecnologia Y Desarrollo,Lima,Lima,San Isidro,agropecuario / educación / producción
+507,"Asociacion Trabajo, Paz Y Sociedad",Lima,Lima,Chorrillos,producción
+508,Asociacion Tres Fronteras,Madre De Dios,Madre De Dios,Las Piedras,agropecuario
+509,Asociacion Union Para La Cooperacion Y El Desarrollo,Lima,Lima,Miraflores,producción
+510,Asociacion Urpichallay,Ancash,Ancash,Marcara,ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social
+511,Asociacion Vamos Peerless,Lima,Lima,Pueblo Libre,género
+512,Asociacion Vega,Piura,Piura,Castilla,agropecuario / ambiente / comercio y turismo / educación / gobernabilidad / salud
+513,Asociacion Via Libre,Lima,Lima,Lima,educación / salud
+514,Asociacion Vida Y Voluntariado,Lima,Lima,San Isidro,género
+515,"Asociacion Vida, Inclusion Y Desarrollo",Lima,Lima,Lima,ambiente / educación / género / salud
+516,Asociacion Vidawasi Peru,Lima,Lima,San Isidro,género
+517,"Asociacion Wayruru Peru, Educacion, Oportunidades Y Calidad De Vida - Ongd",Lima,Lima,Lince,ambiente / educación
+518,Asociacion Yachay Kallpa,Lima,Lima,San Borja,ambiente / educación / género
+519,Astalentum,Lima,Lima,San Juan De Miraflores,educación / gobernabilidad
+520,Atiycuy Peru,Lima,Lima,Santiago De Surco,ambiente / género
+521,Auditoria Legal & Social,Lima,Lima,Lima,educación / género / gobernabilidad
+522,Avina,Lima,Lima,Miraflores,gobernabilidad
+523,"Ayne Peru Trinitarias, Solidaridad Y Desarrollo",Lima,Lima,Puente Piedra,educación / género / salud / trabajo
+524,Ayni - Grupo De Cooperacion Para El Desarrollo Social,Lima,Lima,Lince,género / gobernabilidad / inclusión social / salud
+525,Aynimundo,Lima,Lima,San Juan De Miraflores,ambiente / ciencia y tecnología / cultura / economía / educación / género / inclusión social
+526,Ayuda En Accion Rural Y Urbana Del Peru,Arequipa,Arequipa,Jacobo Hunter,educación / género / salud
+527,Ayuda Para Vida Silvestre Amenazada Sociedad Zoologica De Francfort Peru,Cusco,Cusco,Wanchaq,ambiente / educación
+528,Ayudando A Vivir Mejor,Lima,Lima,San Borja,educación / género / salud
+529,Bcprovide,Lima,Lima,La Molina,educación / género
+530,Bereshit Beraka El Comienzo De La Bendicion,Callao,Callao,Ventanilla,género
+531,Betty Linares Fundacion,Arequipa,Arequipa,Socabaya,género
+532,Bienestar Global,Puno,Puno,Puno,educación / género / salud
+533,Biosfera-Sos,Ucayali,Ucayali,Yarinacocha,agropecuario / ambiente
+534,Buckner Orphan Care Peru,Lima,Lima,Miraflores,educación / vivienda y saneamiento
+535,Buenos Aires En La Recuperacion De Playas Y Obras Sociales,La Libertad,La Libertad,Victor Larco Herrera,género
+536,Camara De Comercio De Huancayo,Junin,Junin,Huancayo,educación / género
+537,Camara De Comercio Y Produccion De Lambayeque,Lambayeque,Lambayeque,Chiclayo,producción
+538,Camara Nacional Forestal,Lima,Lima,Jesus Maria,género / trabajo
+539,Camara Peruana De Comercio Exterior,Lima,Lima,San Isidro,educación
+540,Camara Peruana Del Cafe Y Cacao,Lima,Lima,Miraflores,agropecuario
+541,Cambio Climatico Y Medio Ambiente,Lima,Lima,Carabayllo,ambiente
+542,Caminando Hacia Ti,La Libertad,La Libertad,Trujillo,educación / género / salud
+543,Camino De La Esperanza,Lima,Lima,Comas,género
+544,Canto Vivo,Lima,Lima,Jesus Maria,gobernabilidad
+545,Capirona - Investigacion Y Desarrollo,San Martin,San Martin,Tarapoto,agropecuario
+546,Capital Humano Y Social Alternativo,Lima,Lima,Miraflores,agropecuario / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / justicia / trabajo
+547,Care Peru,Lima,Lima,San Isidro,educación / género / salud
+548,Caritas Abancay,Apurimac,Apurimac,Abancay,agropecuario / ambiente / educación / género / inclusión social / justicia / salud
+549,Caritas Arquidiocesana De Huancayo,Junin,Junin,Huancayo,agropecuario / ambiente / educación / inclusión social / salud
+550,Caritas Arquidiocesana Del Cusco,Cusco,Cusco,Cusco,salud
+551,Caritas Atalaya,Ucayali,Ucayali,Raymondi,género
+552,Caritas Ayacucho,Ayacucho,Ayacucho,Ayacucho,comercio y turismo
+553,Caritas Caraveli,Ica,Ica,Vista Alegre,ambiente / inclusión social / justicia
+554,Caritas Chiclayo,Lambayeque,Lambayeque,Pimentel,agropecuario / inclusión social
+555,Caritas Chota,Cajamarca,Cajamarca,Chota,género
+556,Caritas De Huaraz,Ancash,Ancash,Independencia,género
+557,Caritas Del Peru,Callao,Callao,Callao,agropecuario / ambiente / inclusión social / salud
+558,Caritas Diocesana De Arequipa,Arequipa,Arequipa,Arequipa,educación / género / gobernabilidad / inclusión social / salud
+559,Caritas Diocesana De Huancavelica,Huancavelica,Huancavelica,Huancavelica,agropecuario
+560,Caritas Diocesana De Iquitos,Loreto,Loreto,Iquitos,género / inclusión social
+561,Caritas Huanuco,Huanuco,Huanuco,Huanuco,gobernabilidad / vivienda y saneamiento
+562,Caritas Huari,Ancash,Ancash,Huari,educación / género / inclusión social / salud
+563,Caritas Ica,Ica,Ica,Ica,ambiente / justicia
+564,Caritas Jaen,Cajamarca,Cajamarca,Jaen,género / salud / trabajo
+565,Caritas Madre De Dios,Madre De Dios,Madre De Dios,Tambopata,educación
+566,Caritas San Jose Del Amazonas,Loreto,Loreto,Punchana,agropecuario / género / inclusión social
+567,Caritas Selva Central,Junin,Junin,Satipo,género
+568,Caritas Yurimaguas,Loreto,Loreto,Yurimaguas,agropecuario / economía / educación / género / gobernabilidad / inclusión social / salud / trabajo
+569,Casa Del Aguila,Cusco,Cusco,Limatambo,educación / salud
+570,Casa Hogar Angel Gabriel S.I.T.,Piura,Piura,Castilla,género
+571,Casa Hogar Luz De Vida,La Libertad,La Libertad,Trujillo,género
+572,Catolicas Por El Derecho A Decidir-Peru,Lima,Lima,Lima,justicia / salud
+573,Center For Development,Lima,Lima,Santiago De Surco,ambiente / género
+574,Center For Research In Environmental Health - Centro Para La Investigacion En Salud Ambiental - Creeh Peru,Lima,Lima,Jesus Maria,salud
+575,Central Ashaninka Del Rio Ene,Junin,Junin,Satipo,ambiente / inclusión social / justicia
+576,Central De Organizaciones Productoras De Cafe Y Cacao Del Peru - Cafe Peru,Lima,Lima,Lima,agropecuario
+577,Central Peruana De Servicios,Lima,Lima,Miraflores,agropecuario / ambiente / género / gobernabilidad / producción / trabajo
+578,Centro Alternativo De Accion Para El Desarrollo Sostenible De La Libertad,La Libertad,La Libertad,Trujillo,agropecuario / ciencia y tecnología / economía / educación / género / inclusión social / salud / trabajo
+579,Centro Alternativo Para El Desarrollo Social,Lima,Lima,Huacho,educación / salud
+580,Centro Amazonico De Antropologia Y Aplicacion Practica,Lima,Lima,Magdalena Del Mar,educación / género / gobernabilidad / justicia
+581,Centro Andino De Desarrollo Empresarial Y Social (Centro Andes),Lima,Lima,La Molina,ambiente / género
+582,Centro Andino De Educacion Y Promocion Jose Maria Arguedas,Cusco,Cusco,Cusco,ambiente / género
+583,Centro Ann Sullivan Del Peru,Lima,Lima,San Miguel,educación / género / salud
+584,Centro Asistencial Integral Arequipa,Arequipa,Arequipa,Jose Luis Bustamante Y Rivero,cultura / vivienda y saneamiento
+585,Centro Capacitacion Agraria De La Nacion Andina,Ayacucho,Ayacucho,Huanta,agropecuario / ambiente / género / vivienda y saneamiento
+586,Centro Cristiano De Educacion Y Desarrollo Social (C.E.D.S),La Libertad,La Libertad,Trujillo,género
+587,Centro Cultural Nosotros,Lima,Lima,Jesus Maria,educación / género
+588,Centro Cultural Peru - Sican,Loreto,Loreto,Iquitos,educación / género
+589,Centro De  Estudios Desarrollo Solidaridad Y Democracia,Lima,Lima,Santiago De Surco,educación / género
+590,Centro De Accion Social Tecnica Y De Capacitacion,Ancash,Ancash,Independencia,educación / género
+591,Centro De Alto Rendimiento Deportivo Pedro Sandoval Boudri,Lima,Lima,Lince,educación
+592,Centro De Apoyo A Niños/As Adolescentes Trabajadores,Piura,Piura,Piura,género / salud
+593,Centro De Apoyo Al Desarrollo Agro-Socio Economico,La Libertad,La Libertad,Trujillo,agropecuario
+594,Centro De Apoyo Al Desarrollo Humano Y Mitigacion De La Pobreza En Peru,Lima,Lima,Ate,inclusión social
+595,"Centro De Apoyo Armonizacion Salud Y Cultura ""Splendor"" Casa Hogar Para La Tercera Edad",Lima,Lima,Los Olivos,salud
+596,Centro De Apoyo Capacitacion Y Asistencia Para El Peru,Piura,Piura,Piura,inclusión social / salud
+597,Centro De Apoyo E Investigacion Para El Desarrollo Campesino,Puno,Puno,Puno,agropecuario / ciencia y tecnología / economía / educación / género / gobernabilidad
+598,Centro De Apoyo Rural,Junin,Junin,Huancayo,agropecuario
+599,"Centro De Apoyo Y Desarrollo Empresarial ""Ceade""",Junin,Junin,Huancayo,educación / género
+600,"Centro De Asesoria, Investigacion Y Promocion Humana",Callao,Callao,Ventanilla,educación
+601,Centro De Atencion Psicosocial - Caps,Lima,Lima,Jesus Maria,ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / salud
+602,Centro De Atencion Residencial Infantil Shaya,Lambayeque,Lambayeque,Saña,género
+603,Centro De Atencion Y Educacion A La Familia - Caef,La Libertad,La Libertad,Moche,género
+604,Centro De Atencion Y Promocion Social,Junin,Junin,El Tambo,inclusión social
+605,"Centro De Biodiversidad Y Desarrollo Agrario La Molina ""Bida""",Lima,Lima,Ate,agropecuario
+606,Centro De Capacitacion Campesina De Puno,Puno,Puno,Puno,agropecuario / ambiente / gobernabilidad / producción
+607,Centro De Capacitacion En Oficios Para La Mujer,San Martin,San Martin,Morales,género
+608,Centro De Capacitacion Evangelico Jesus El Maestro,Lambayeque,Lambayeque,Chiclayo,educación
+609,Centro De Capacitacion J.M. Arguedianos,Junin,Junin,El Tambo,educación
+610,Centro De Capacitacion Y Asesoria Microempresarial Arariwa Ayni,Cusco,Cusco,Wanchaq,ambiente / educación / género / transportes y comunicaciones
+611,Centro De Capacitacion Y Desarrollo Social Peruano,Lima,Lima,Carabayllo,agropecuario / género / vivienda y saneamiento
+612,Centro De Competencias Del Agua,Lima,Lima,San Miguel,agropecuario / ambiente / ciencia y tecnología / producción
+613,Centro De Comunicacion Amakella,Arequipa,Arequipa,Arequipa,género / transportes y comunicaciones
+614,Centro De Comunicacion E Investigacion Aplicada Mujer Y Sociedad,Lima,Lima,Miraflores,educación / género / producción
+615,"Centro De Conservacion, Investigacion Y Manejo De Areas Naturales - Cordillera Azul",Lima,Lima,Miraflores,ambiente
+616,Centro De Desarrollo Agropecuario,Ayacucho,Ayacucho,Ayacucho,agropecuario / género
+617,Centro De Desarrollo Ambiental Y Social,Puno,Puno,Puno,ambiente
+618,Centro De Desarrollo De Capacidades Institucionales Y Productivas,Cajamarca,Cajamarca,Santa Cruz,agropecuario / ambiente / gobernabilidad / inclusión social / producción
+619,Centro De Desarrollo E Investigacion De La Selva Alta,San Martin,San Martin,Tarapoto,ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / producción / salud
+620,Centro De Desarrollo Etnico Cedet,Lima,Lima,Breña,cultura / género / gobernabilidad / justicia
+621,Centro De Desarrollo Integral De Comunidades,Junin,Junin,El Tambo,inclusión social
+622,Centro De Desarrollo Integral Para La Familia,Cusco,Cusco,Cusco,género
+623,Centro De Desarrollo Manos Solidarias,Huancavelica,Huancavelica,Huancavelica,ambiente / educación / género
+624,"Centro De Desarrollo Rural Integral ""El Nazareno""",Piura,Piura,Chulucanas,ambiente / justicia
+625,Centro De Desarrollo Rural Y Urbano Marginal (Cedrum),Lima,Lima,Huacho,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / trabajo
+626,Centro De Desarrollo Social Kuska Wiñasun - Kuska Ong,Junin,Junin,El Tambo,inclusión social / justicia
+627,Centro De Desarrollo Tecnico Productivo Cedetep,Lima,Lima,Villa Maria Del Triunfo,agropecuario / gobernabilidad / producción
+628,Centro De Desarrollo Y Asesoria Psicosocial,Lima,Lima,Miraflores,educación / salud
+629,Centro De Desarrollo Y Capacitacion Para El Progreso,Lima,Lima,Miraflores,agropecuario / ambiente
+630,Centro De Desarrollo Y Democracia,Lima,Lima,Chaclacayo,vivienda y saneamiento
+631,Centro De Ecologia Y Genero - Eco,Lambayeque,Lambayeque,Chiclayo,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social / producción / salud / trabajo
+632,Centro De Educacion Y Comunicacion Guaman Poma De Ayala,Cusco,Cusco,Wanchaq,educación / justicia / salud
+633,"Centro De Educacion, Ecologia, Asesoria Y Servicios Forjando Progreso Y Desarrollo",Lima,Lima,Comas,ambiente / género
+634,Centro De Emprendimiento E Innovacion Para El Desarrollo Economico Y Social Peru,La Libertad,La Libertad,Trujillo,educación / género
+635,Centro De Energia Renovable Y Proteccion Del Medio Ambiente,Junin,Junin,El Tambo,agropecuario / ambiente
+636,"Centro De Estudio, Asesoria Y Promocion Para El Desarrollo Andino Mi Pueblo",Tacna,Tacna,Tacna,agropecuario / ciencia y tecnología / economía / educación / género / gobernabilidad / producción / trabajo
+637,Centro De Estudios Arqueologicos Precolombinos,Ica,Ica,Nazca,agropecuario / comercio y turismo / cultura / educación
+638,Centro De Estudios Cristianos Y Capacitacion Popular,Arequipa,Arequipa,Arequipa,inclusión social / producción
+639,"Centro De Estudios De Prevencion, Tratamiento, Investigacion Y De Salud",Lima,Lima,Santiago De Surco,género / salud
+640,Centro De Estudios De Problemas Economicos Y Sociales De La Juventud,Lima,Lima,Lince,educación / género / gobernabilidad / salud
+641,Centro De Estudios Economico Sociales Y Medio Ambiente,La Libertad,La Libertad,Trujillo,agropecuario / género / salud / vivienda y saneamiento
+642,Centro De Estudios Para El Desarrollo Regional,Arequipa,Arequipa,Arequipa,agropecuario / salud
+643,Centro De Estudios Para El Desarrollo Y La Participacion,Lima,Lima,Magdalena Del Mar,agropecuario / ambiente / justicia / trabajo
+644,Centro De Estudios Para La Edificacion Con Tierra Y El Desarrollo Sostenible,Lima,Lima,Santiago De Surco,agropecuario / ciencia y tecnología / educación / salud / vivienda y saneamiento
+645,Centro De Estudios Para La Prevencion Y Correccion De Enfermedades Abdominales,Lima,Lima,Santiago De Surco,género / salud
+646,Centro De Estudios Para Proyectos De Desarrollo Y Del Medio  Ambiente,Huanuco,Huanuco,Huanuco,ambiente / ciencia y tecnología / economía / educación / gobernabilidad / salud
+647,Centro De Estudios Regionales Andinos Bartolome De Las Casas,Cusco,Cusco,Cusco,educación
+648,Centro De Estudios Sociales Solidaridad,Lambayeque,Lambayeque,Chiclayo,educación / género / producción / salud
+649,Centro De Estudios Sociales Y Publicaciones,Lima,Lima,Jesus Maria,ambiente / género / justicia
+650,Centro De Estudios Y Desarrollo Economico Para Los Pueblos,Puno,Puno,Juliaca,agropecuario / ambiente / producción / salud
+651,Centro De Estudios Y Desarrollo Social Apurimac,Apurimac,Apurimac,Abancay,género / producción
+652,Centro De Estudios Y Prevencion De Desastres,Lima,Lima,San Isidro,agropecuario / ambiente / ciencia y tecnología / educación / género / gobernabilidad / inclusión social / salud / vivienda y saneamiento
+653,Centro De Estudios Y Promocion Comunal Del Oriente,San Martin,San Martin,Tarapoto,agropecuario / educación / producción
+654,Centro De Estudios Y Promocion Del Desarrollo,Lima,Lima,Jesus Maria,ambiente / educación / género / justicia
+655,Centro De Estudios Y Promocion Del Desarrollo Ciudadano-Desco Ciudadano,Lima,Lima,Lima,educación / gobernabilidad / inclusión social / justicia
+656,Centro De Estudios Y Promocion Del Desarrollo Del Sur Descosur,Arequipa,Arequipa,Arequipa,género
+657,"Centro De Estudios, Desarrollo Y Accion Social (Cedas)",Cajamarca,Cajamarca,Cajamarca,agropecuario / inclusión social
+658,Centro De Fomento Y Desarrollo Social,Ancash,Ancash,Nuevo Chimbote,agropecuario / economía / educación / género / gobernabilidad / trabajo
+659,Centro De Formacion Campesina De La Prelatura De Sicuani,Cusco,Cusco,Espinar,agropecuario / ambiente / ciencia y tecnología / género / gobernabilidad / vivienda y saneamiento
+660,Centro De Formacion Y Desarrollo De La Familia,La Libertad,La Libertad,El Porvenir,educación / género
+661,Centro De Formacion Y Produccion Arariwa,Cusco,Cusco,Urubamba,educación / producción
+662,Centro De Informacion Y Educacion Para La Prevencion Del Abuso De Drogas,Lima,Lima,Miraflores,salud
+663,Centro De Innovacion Tecnologica Tropical,San Martin,San Martin,Juanjui,ambiente
+664,Centro De Investigacion Cientifica Y Tecnologica Para La Cooperacion Y Desarrollo,Lima,Lima,Miraflores,género / gobernabilidad
+665,Centro De Investigacion Comunal Y Agropecuaria Del Peru,Lima,Lima,Los Olivos,agropecuario / educación
+666,Centro De Investigacion Conocimiento Y Desarrollo,Lima,Lima,Magdalena Del Mar,educación / salud
+667,Centro De Investigacion De Analisis Y Desarrollo,Puno,Puno,Puno,agropecuario / ambiente / ciencia y tecnología / educación / gobernabilidad / producción / vivienda y saneamiento
+668,Centro De Investigacion De Recursos Naturales Y Medio Ambiente,Puno,Puno,Puno,agropecuario / ambiente / producción
+669,Centro De Investigacion Desarrollo Y Becas Peru,La Libertad,La Libertad,Trujillo,ambiente / educación / género / salud
+670,Centro De Investigacion Desarrollo Y Capacitacion Social Andina - Peru,Puno,Puno,Puno,ambiente / inclusión social
+671,Centro De Investigacion E Innovacion En Ciencia Y Tecnologia Para El Desarrollo Inclusivo,Callao,Callao,La Perla,educación / transportes y comunicaciones
+672,Centro De Investigacion Integral De Desarrollo De Las Comunidades Campesinas Y Nativas Del Peru - Sol,Ayacucho,Ayacucho,Ayacucho,inclusión social
+673,Centro De Investigacion Para El Desarrollo Intercultural Amazonico Carmen Binder - Cidiacabi,Ucayali,Ucayali,Calleria,ambiente / educación / salud
+674,"Centro De Investigacion Para El Desarrollo Socio Economico ""San Camilo""",Huanuco,Huanuco,Huanuco,agropecuario / producción
+675,Centro De Investigacion Para El Desarrollo Sostenible Del Peru,Piura,Piura,Castilla,agropecuario / ambiente
+676,Centro De Investigacion Para El Desarrollo Y Defensa Del Medio Ambiente,Piura,Piura,Piura,agropecuario
+677,Centro De Investigacion Para La Biodiversidad Medioambiente Y El Desarrollo Agroindustrial Sostenible,San Martin,San Martin,Tarapoto,agropecuario / ambiente / producción
+678,Centro De Investigacion Social Y Proyeccion De Ayuda Para El Desarrollo Del Peru - Cisprodep Association,Lambayeque,Lambayeque,Chongoyape,ambiente / educación / género / salud
+679,"Centro De Investigacion Y Aplicacion De La Educacion Intercultural, Bilingue Y Ecologica Saywa",Apurimac,Apurimac,Andahuaylas,educación
+680,Centro De Investigacion Y Aplicacion En El Desarrollo Economico Y Social,La Libertad,La Libertad,Huanchaco,educación / vivienda y saneamiento
+681,"Centro De Investigacion Y Apoyo Para El Desarrollo Comunitario ""Alexander Von Humboldt""",Huanuco,Huanuco,Huanuco,agropecuario / salud
+682,Centro De Investigacion Y Capacitacion Campesina,Apurimac,Apurimac,Abancay,agropecuario / ambiente / educación / inclusión social / producción / trabajo
+683,Centro De Investigacion Y Desarrollo,Lima,Lima,Comas,agropecuario / género / producción
+684,Centro De Investigacion Y Desarrollo Antonio Raimondi,Lambayeque,Lambayeque,Pimentel,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / trabajo
+685,Centro De Investigacion Y Desarrollo Ayllu,Ica,Ica,La Tinguiña,ambiente / educación / energía/extractiva / género
+686,Centro De Investigacion Y Desarrollo Educativo Ñari Walac,Piura,Piura,Castilla,agropecuario / ciencia y tecnología / economía / educación / género / trabajo
+687,Centro De Investigacion Y Desarrollo Integral De La Comunidad,Huancavelica,Huancavelica,Ascension,agropecuario / ambiente / vivienda y saneamiento
+688,Centro De Investigacion Y Desarrollo Integral Sostenible Urbano Y Rural Peru,Puno,Puno,Puno,ambiente / educación / salud
+689,Centro De Investigacion Y Desarrollo La Llave De La Ciencia 1 - Cidellci,Lima,Lima,Lima,educación / género / producción
+690,Centro De Investigacion Y Desarrollo Para La Gestion Del Riesgo Y Medio Ambiente,La Libertad,La Libertad,Trujillo,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad
+691,Centro De Investigacion Y Emprendimientos Para El Desarrollo Integral La Libertad,La Libertad,La Libertad,Trujillo,educación / género / inclusión social
+692,Centro De Investigacion Y Manejo Agroecologico Para El Desarrollo,Piura,Piura,Catacaos,agropecuario / ambiente
+693,Centro De Investigacion Y Produccion Del Peru,Ancash,Ancash,Huaraz,ambiente / género / trabajo / vivienda y saneamiento
+694,Centro De Investigacion Y Promocion De La Mujer Y El Niño,Piura,Piura,Castilla,ambiente / producción
+695,Centro De Investigacion Y Promocion Del Campesinado,Piura,Piura,Castilla,agropecuario / ambiente / economía / educación / género / gobernabilidad / producción
+696,Centro De Investigacion Y Promocion Del Desarrollo Andino,Cajamarca,Cajamarca,Cajabamba,género
+697,Centro De Investigacion Y Promocion Del Desarrollo Sostenible,Lambayeque,Lambayeque,Chiclayo,educación / género
+698,Centro De Investigacion Y Promocion Economica,Callao,Callao,Bellavista,producción
+699,Centro De Investigacion Y Promocion Educacional Rural Y Urbana,Lambayeque,Lambayeque,Chiclayo,ambiente / educación / salud
+700,"Centro De Investigacion Y Promocion Para El Desarrollo ""Futuro En Accion""",La Libertad,La Libertad,Trujillo,gobernabilidad
+701,Centro De Investigacion Y Promocion Popular - Cendipp,Lima,Lima,Pueblo Libre,ambiente / educación / producción / salud / vivienda y saneamiento
+702,Centro De Investigacion Y Promocion Social (Cips) Sara Lafosse,La Libertad,La Libertad,Trujillo,agropecuario / educación / salud / vivienda y saneamiento
+703,Centro De Investigacion Y Tecnologia Para El Desarrollo,La Libertad,La Libertad,Trujillo,ambiente / educación
+704,Centro De Investigacion Y Transferencia De Tecnologias - Peru,Tacna,Tacna,Alto De La Alianza,género
+705,"Centro De Investigacion, Capacitacion, Asesoria Y Promocion",Lambayeque,Lambayeque,Chiclayo,agropecuario / ambiente / ciencia y tecnología / educación / género / gobernabilidad / inclusión social
+706,"Centro De Investigacion, Documentacion Y Asesoria Poblacional",Lima,Lima,Jesus Maria,género / gobernabilidad
+707,"Centro De Investigacion, Documentacion, Educacion, Asesoria Y Servicios",Piura,Piura,Piura,ambiente / ciencia y tecnología / género / gobernabilidad / inclusión social / producción / salud / trabajo
+708,"Centro De Investigacion, Educacion Y Desarrollo",Lima,Lima,Lince,ambiente / educación
+709,"Centro De Investigacion, Estudios Y Promocion Del Desarrollo - Minka",La Libertad,La Libertad,Trujillo,agropecuario / ambiente / producción / trabajo
+710,"Centro De Investigacion, Evaluacion Y Desarrollo",Lima,Lima,Jesus Maria,agropecuario / ambiente / educación / género / gobernabilidad / inclusión social / justicia / salud / seguridad / trabajo / vivienda y saneamiento
+711,"Centro De Investigacion, Promocion Y Desarrollo Andino Chavin",Ancash,Ancash,Huaraz,género
+712,Centro De Investigaciones Sociales Y Tecnologicas,Lima,Lima,Miraflores,educación / producción
+713,"Centro De Investigaciones Tecnologicas, Biomedicas Y Medioambientales",Callao,Callao,Bellavista,ciencia y tecnología
+714,Centro De La Familia Para El Desarrollo Humano Vidagracia,La Libertad,La Libertad,Victor Larco Herrera,educación / género / salud
+715,Centro De La Mujer Peruana Flora Tristan,Lima,Lima,Lima,educación / género / justicia / producción / salud
+716,Centro De Medicina Fisica Y De Rehabilitacion,Lima,Lima,San Juan De Miraflores,salud
+717,Centro De Promocion Cultural Trujillo,La Libertad,La Libertad,Trujillo,comercio y turismo / educación / salud
+718,Centro De Promocion De Derechos De La Niñez Y Adolescencia,Ayacucho,Ayacucho,Ayacucho,género
+719,Centro De Promocion De Educacion Y Desarrollo Sociedad E Identidad,Lambayeque,Lambayeque,Monsefu,educación / género / gobernabilidad / inclusión social / salud
+720,Centro De Promocion De La Equidad Maria Elena Moyano,Lima,Lima,Surquillo,género
+721,Centro De Promocion De La Mujer,Junin,Junin,El Tambo,agropecuario / gobernabilidad
+722,Centro De Promocion De La Mujer Del Norte,La Libertad,La Libertad,Trujillo,educación / género
+723,Centro De Promocion De La Mujer Del Pueblo,Lima,Lima,Villa El Salvador,género
+724,Centro De Promocion De La Mujer Micaela Bastidas,La Libertad,La Libertad,Trujillo,agropecuario / ciencia y tecnología / educación / género / gobernabilidad / inclusión social / justicia / salud
+725,"Centro De Promocion De Los Derechos Del Niño, Adolescente Y Mujer",Cajamarca,Cajamarca,Jaen,educación / género / justicia
+726,Centro De Promocion Del Desarrollo Autosostenido - Peru,Puno,Puno,Puno,agropecuario / género / gobernabilidad
+727,Centro De Promocion Del Desarrollo Y La Educacion,Lima,Lima,Huaral,educación / producción
+728,Centro De Promocion Social Y Desarrollo Del Norte,La Libertad,La Libertad,Trujillo,agropecuario / educación / género / gobernabilidad / producción / salud / trabajo / vivienda y saneamiento
+729,Centro De Promocion Urbana Y Rural,Puno,Puno,Juliaca,agropecuario / inclusión social
+730,Centro De Promocion Y Desarrollo Andino Minga,Piura,Piura,Piura,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social / trabajo
+731,Centro De Promocion Y Desarrollo Poblacional,Ayacucho,Ayacucho,Ayacucho,economía / educación / género / gobernabilidad / justicia / salud / trabajo
+732,Centro De Promocion Y Desarrollo Rural -  Apurimac,Apurimac,Apurimac,Abancay,educación / salud / trabajo
+733,Centro De Promocion Y Desarrollo Social,La Libertad,La Libertad,Trujillo,género
+734,"Centro De Promocion, Desarrollo Humano Y Defensa De Medio Ambiente",Huanuco,Huanuco,Amarilis,ambiente
+735,"Centro De Promocion, Integracion Y Desarrollo Rural Urbano De Ayacucho",Ayacucho,Ayacucho,Andrés Avelino Cáceres Dorregaray,educación / trabajo
+736,Centro De Rehabilitacion De Toxicomanos Y De Investigacion De Medicinas Tradicionales,San Martin,San Martin,Tarapoto,ambiente / educación / salud
+737,Centro De Reintegracion Con Amor Y Paciencia,La Libertad,La Libertad,El Porvenir,educación / género
+738,"Centro De Servicios Para La Capacitacion Laboral Y El Desarrollo, Caplab",Lima,Lima,Santiago De Surco,educación
+739,Centro De Textiles Tradicionales Del Cusco,Cusco,Cusco,Cusco,producción
+740,Centro Ecumenico De Promocion Y Accion Social Centro,Junin,Junin,Huancayo,ambiente / gobernabilidad / producción / salud / vivienda y saneamiento
+741,Centro Ecumenico De Promocion Y Accion Social Norte,La Libertad,La Libertad,Trujillo,ambiente / género / gobernabilidad
+742,Centro Gestion Y Desarrollo,Lambayeque,Lambayeque,Picsi,economía / género
+743,Centro Global Para El Desarrollo Y La Democracia,Lima,Lima,Magdalena Del Mar,economía / educación
+744,Centro Iberoamericano Especializado En La Formacion Ambiental,Junin,Junin,El Tambo,ambiente
+745,Centro Integral De Desarrollo Y Medio Ambiente Nor-Sur Peru,Piura,Piura,Bellavista,agropecuario / género / salud
+746,Centro Internacional De Desarrollo Humano Y Gestion Local,Arequipa,Arequipa,Yanahuara,economía / género
+747,Centro Internacional De Estudios Interdisciplinarios,Junin,Junin,El Tambo,educación
+748,Centro Latinoamericano De Ayuda Social,Lima,Lima,San Borja,educación / género / salud
+749,Centro Latinoamericano De Investigacion Y Promocion Para El Desarrollo Social En Paz Y Bien,Puno,Puno,Puno,inclusión social / justicia / trabajo
+750,Centro Leonor Tarifa Del Peru,La Libertad,La Libertad,Trujillo,educación / género
+751,Centro Medico De Salud Sur Peruano,Tacna,Tacna,Tacna,educación / salud
+752,Centro Para El Desarrollo De Comunidades Y Pueblos,Cajamarca,Cajamarca,Cajamarca,ambiente / educación
+753,Centro Para El Desarrollo De Los Pueblos Ayllu,Cusco,Cusco,Cusco,agropecuario / ambiente / ciencia y tecnología / género / gobernabilidad / producción / trabajo
+754,Centro Para El Desarrollo Del Indigena Amazonico,Callao,Callao,La Perla,gobernabilidad / trabajo
+755,Centro Para El Desarrollo Del Niño Y El Adolescente,Cusco,Cusco,Santiago,salud
+756,Centro Para El Desarrollo Integral Andino Y Amazonico,Ayacucho,Ayacucho,Andrés Avelino Cáceres Dorregaray,género
+757,Centro Para El Desarrollo Social Y Empresarial Forward Hand - O.N.G. Foha,Junin,Junin,El Tambo,ambiente / género / inclusión social / producción / salud / trabajo / vivienda y saneamiento
+758,Centro Para La Cooperacion A La Pequeña Y Micro Empresa,Apurimac,Apurimac,Abancay,producción
+759,Centro Peruano De Estudios Sociales,Lima,Lima,Jesus Maria,educación / justicia / producción / salud
+760,Centro Promocion Cristiano Para El Desarrollo Social Y Empresarial Ong,Arequipa,Arequipa,Yanahuara,educación / gobernabilidad
+761,Centro Regional De Tecnologia Apropiada (Creta),Loreto,Loreto,Punchana,agropecuario / ambiente / ciencia y tecnología / educación
+762,Centro Shaday Apurimac,Apurimac,Apurimac,Chalhuanca,educación / salud
+763,Centro Terapeutico Tridimensional En La Cura De Adicciones,La Libertad,La Libertad,Trujillo,educación
+764,Centros Empresariales De Organizaciones Sociales,La Libertad,La Libertad,Trujillo,agropecuario
+765,Cervi-Cusco,Cusco,Cusco,San Jeronimo,salud
+766,Chachapoyas Por La Vida Y La Cultura,Amazonas,Amazonas,Chachapoyas,ambiente
+767,Chacra Project,Lima,Lima,San Isidro,ambiente
+768,"Chance Peru, Asociacion Para El Desarrollo Restaurando Vidas",Huanuco,Huanuco,Huanuco,educación / trabajo
+769,Chirapaq Centro De Culturas Indigenas Del Peru,Lima,Lima,Jesus Maria,género
+770,Choice Humanitarian,Piura,Piura,Castilla,educación / género / salud
+771,Ciencia Y Tecnologia Ancestral Y Actual Del Peru,Lima,Lima,Santiago De Surco,ambiente / educación
+772,Circoluzion,Lima,Lima,San Martin De Porres,ambiente / educación
+773,Circulo Para El Desarrollo Social Peru,La Libertad,La Libertad,Moche,educación / salud
+774,Circulo Solidario,La Libertad,La Libertad,Trujillo,agropecuario / educación / género / gobernabilidad / inclusión social / justicia
+775,Ciudad Saludable,Lima,Lima,Miraflores,ambiente
+776,Colectivo Integral De Desarrollo,Lima,Lima,La Molina,economía / género / gobernabilidad / producción / trabajo
+777,Comercio Alternativo De Productos No Tradicionales Y Desarrollo En America Latina - Peru,Lima,Lima,Villa El Salvador,economía / producción
+778,Cometa - Compromiso Desde La Infancia Y Adolescencia,Lima,Lima,Lima,educación / inclusión social
+779,Comision Andina De Juristas,Lima,Lima,San Isidro,género / gobernabilidad / justicia
+780,Comision De Derechos Humanos,Lima,Lima,Jesus Maria,educación / género / gobernabilidad / inclusión social / justicia
+781,Comision De Derechos Humanos De Ica,Ica,Ica,Ica,justicia
+782,Comite Central De Palmicultores De Ucayali,Ucayali,Ucayali,Calleria,agropecuario
+783,Comite De America Latina Y El Caribe Para La Defensa De Los Derechos De Las Mujeres. Cladem,Lima,Lima,Jesus Maria,ciencia y tecnología / cultura / educación / género / gobernabilidad / inclusión social / justicia
+784,"Comite De Vigilancia, Gestion Y Desarrollo Provincial De Pataz Residentes En Trujillo",La Libertad,La Libertad,Trujillo,género
+785,Comunidad Campesina San Asencion De Racchicancha,Huanuco,Huanuco,Santa Maria Del Valle,educación
+786,Comunidad Cristiana Missio Dei,La Libertad,La Libertad,El Porvenir,género
+787,Comunidad Cristiana Reformada Peru Mission,La Libertad,La Libertad,Trujillo,educación
+788,Con Nuestro Padre Celestial Movemos Montañas De Nuestra Selva Peruana,Cajamarca,Cajamarca,Jaen,ambiente / educación / género
+789,Conocimiento Y Bienestar Life,Lima,Lima,Chorrillos,comercio y turismo / inclusión social
+790,Consejo De Desarrollo Del Cooperativismo,Lima,Lima,San Juan De Lurigancho,agropecuario / ciencia y tecnología / economía / educación / género / gobernabilidad / producción / trabajo
+791,Consejo De Juventudes Nacionales,Lima,Lima,Pueblo Libre,ciencia y tecnología / educación / género / gobernabilidad / inclusión social / justicia / salud
+792,Consejo De La Prensa Peruana,Lima,Lima,Magdalena Del Mar,educación / gobernabilidad / justicia / transportes y comunicaciones
+793,Conservaccion,Lima,Lima,San Isidro,ambiente / educación
+794,Conservacion Ambiental Y Desarrollo En El Peru,Madre De Dios,Madre De Dios,Tambopata,ambiente / comercio y turismo / gobernabilidad
+795,Conservacionistas De Ecosistemas Y Cuencas Sostenibles Organizacion No Gubernamental,San Martin,San Martin,Nueva Cajamarca,educación
+796,"Conservando, Proyecto Cientifico Para La Conservacion Del Patrimonio",Lima,Lima,Santiago De Surco,cultura / educación
+797,Conservar Peru,La Libertad,La Libertad,El Porvenir,cultura / educación / género / gobernabilidad
+798,Consorcio De Investigacion Economica Y Social,Lima,Lima,Jesus Maria,producción
+799,Consorcio De Organismos No Gubernamentales De Promocion De  Desarrollo De La Libertad,La Libertad,La Libertad,Trujillo,ambiente / comercio y turismo / cultura
+800,Consorcio De Organizaciones Privadas De Promocion Al Desarrollo Dela Micro Y Pequeña Empresa,Lima,Lima,Lince,economía / género / gobernabilidad / producción / trabajo
+801,Consorcio Empresarial De Promocion Y Asesoramiento Al Desarrollo Economico Social Peruano,Lima,Lima,Lima,educación
+802,Consorcio Interinstitucional Para El Desarrollo Humano Y Territorial Antonio Raymondi,La Libertad,La Libertad,Trujillo,ciencia y tecnología
+803,Consorcio Interinstitucional Para El Desarrollo Regional,Cajamarca,Cajamarca,Cajamarca,ambiente
+804,Consorcio Para El Desarrollo Integral De La Niñez Y La Familia Andina,Lima,Lima,Lima,educación / género
+805,Consorcio Para El Desarrollo Sostenible De La Ecorregion Andina,Lima,Lima,Surquillo,ambiente / género
+806,Consorcio Para El Desarrollo Sostenible De Ucayali,Ucayali,Ucayali,Calleria,ciencia y tecnología
+807,Construyendo Un Mundo Mejor,La Libertad,La Libertad,Chao,educación / salud
+808,Consuelo Torres Tello De Los Pobres Y Proyectos Para El Desarrollo Sostenible,Lima,Lima,San Juan De Miraflores,ambiente / género
+809,Consultores Y Ejecutores De Proyectos De Desarrollo Integral,Ayacucho,Ayacucho,Ayacucho,trabajo
+810,Cooperaccion,Lima,Lima,Jesus Maria,ambiente / energía/extractiva / producción
+811,Cooperacion Cristiana Para El Desarrollo,San Martin,San Martin,Moyobamba,educación
+812,Cooperacion Integral Al Desarrollo Social Y Productivo,Lima,Lima,El Agustino,educación / salud
+813,Cooperacion Para El Desarrollo De La Amazonia,Loreto,Loreto,Iquitos,ambiente / trabajo
+814,Cooperacion Peruano Europea Para Sudamerica,Arequipa,Arequipa,Arequipa,educación / género
+815,Coordinadora De Organizaciones Campesinas E Instituciones Agrarias Del Peru,Lima,Lima,Jesus Maria,ambiente / producción
+816,Coordinadora Distrital De Comunidades Nativas De Pichari,Cusco,Cusco,Pichari,ambiente / género
+817,Coordinadora Nacional De Derechos Humanos,Lima,Lima,Lince,educación / género / justicia
+818,Coordinadora Nacional De Desarrollo Social Y Agropecuario Del Peru,Lima,Lima,San Juan De Lurigancho,educación / género
+819,Coordinadora Por La Inversion Y El Trabajo Del Peru (Citperu),Lima,Lima,Magdalena Del Mar,producción / vivienda y saneamiento
+820,Coordinadora Regional De Pueblos Indigenas De Aidesep Atalaya,Ucayali,Raymondi,Atalaya,ambiente /
+821,Cops - Instituto De Cultura Y Orientacion Para El Desarrollo Personal Y Social,Ica,Ica,Ica,ambiente / economía / educación
+822,Corazon Solidario,Huanuco,Huanuco,Huanuco,ambiente / género / producción / salud
+823,Corazones Felices,Lima,Lima,San Martin De Porres,educación
+824,Cordillera Los Andes,Lima,Lima,San Martin De Porres,agropecuario / educación / género
+825,Corporacion De Desarrollo Ecologico Integrado - Cdei,Lima,Lima,Rimac,ambiente / educación / género
+826,Corporacion De Desarrollo Sincos,Lima,Lima,Santiago De Surco,agropecuario / ambiente / comercio y turismo / producción
+827,Corporacion Restauremos Nuestro Tiempo Adfer Mitawi - Con Caracter De Organismo No Gubernamental De Desarrollo,Puno,Puno,Puno,ambiente / educación / gobernabilidad
+828,Corunum-Un Solo Corazon,Lambayeque,Lambayeque,Jose Leonardo Ortiz,agropecuario / ambiente / educación / salud
+829,Crea Musica,Lima,Lima,Barranca,educación
+830,Creation Peru,La Libertad,La Libertad,Trujillo,género / gobernabilidad / inclusión social
+831,Crecimiento Integral Para Poblaciones En Desarrollo - Aciped,Junin,Junin,Pangoa,ambiente
+832,Creser: Centro De Estudios Y Asesoria En Conductas De Riesgo Social Y Promocion Del Desarrollo Integral,Lima,Lima,Santiago De Surco,género / justicia
+833,Cristianos Unidos,Lima,Lima,Santa Anita,educación / género
+834,Cruz Verde Amazonica,San Martin,San Martin,Morales,ambiente
+835,Cuerpo De Liderazgo Internacional Basado En Principios,Puno,Puno,Puno,ambiente / educación / género
+836,Cultura Global,Lima,Lima,San Borja,educación
+837,Dar Con Alegria,Lima,Lima,Lince,educación / género / inclusión social / salud / vivienda y saneamiento
+838,Defendiendo La Vida,La Libertad,La Libertad,Trujillo,género / inclusión social / seguridad
+839,Defensa Del Medio Ambiente Reforestacion Y Forestacion,La Libertad,La Libertad,La Esperanza,agropecuario / ambiente
+840,Demus - Estudio Para La Defensa De Los Derechos De La Mujer,Lima,Lima,Jesus Maria,género / justicia
+841,Deport Vida,La Libertad,La Libertad,Trujillo,género
+842,"Derecho, Ambiente Y Recursos Naturales",Lima,Lima,Pueblo Libre,ambiente
+843,Desarrollo Integral De Nuevo Pachacutec,Callao,Callao,Ventanilla,agropecuario / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / producción / salud / trabajo / vivienda y saneamiento
+844,Desarrollo Integral Del Adolescente,Ayacucho,Ayacucho,Ayacucho,género
+845,Desarrollo Urbano Sostenible,Lima,Lima,La Molina,vivienda y saneamiento
+846,Desea Peru,Cusco,Cusco,Lamay,ambiente / salud
+847,"Diaconia, Asociacion Evangelica Luterana De Ayuda Para El Desarrollo Comunal",Lima,Lima,Breña,agropecuario / gobernabilidad / salud / vivienda y saneamiento
+848,Diversidad San Martinense,San Martin,San Martin,Tarapoto,salud
+849,Dris / Desarrollo Rural Sustentable,Lima,Lima,Ate,ambiente / género
+850,Eagle Condor Humanitarian Peru,Piura,Piura,Piura,inclusión social / producción
+851,Eco Redd,Lima,Lima,Lince,ambiente / vivienda y saneamiento
+852,Ecoceanica,Lima,Lima,San Borja,ambiente / educación
+853,Ecologia Tecnologia Consultores B&M,Cajamarca,Cajamarca,Querocoto,ambiente / educación / género / gobernabilidad
+854,"Ecosad - Consorcio Por La Salud, Ambiente Y Desarrollo",Lima,Lima,Lima,ambiente / género / salud
+855,Ecoselva,Junin,Junin,Chanchamayo,agropecuario / ambiente / género / trabajo
+856,Ecoswell,Lima,Lima,Miraflores,género
+857,Educa. Impacta. Crece,Lima,Lima,Miraflores,género
+858,Educacion Con Valores Para La Vida,La Libertad,La Libertad,Victor Larco Herrera,salud
+859,"Educar Sembrando, Ongd",Lima,Lima,Santiago De Surco,educación / género / vivienda y saneamiento
+860,Eduvida,Lima,Lima,Magdalena Del Mar,educación / salud
+861,Ejecutor De Contrato De Administracion De La Reserva Comunal Amarakaeri,Madre De Dios,Madre De Dios,Tambopata,ambiente
+862,Ejecutor De Contrato De Administracion De La Reserva Comunal Ashaninka (Eco-Ashaninka),Junin,Junin,Satipo,ambiente
+863,Ejecutor Del Contrato De Administracion De La Reserva Comunal Purus,Ucayali,Ucayali,Purus,ambiente
+864,El Canario Salvador,La Libertad,La Libertad,Trujillo,agropecuario / ambiente / educación / género / inclusión social / producción / vivienda y saneamiento
+865,El Eden Del Divino Niño Jesus,Lima,Lima,Los Olivos,educación / género / salud
+866,El Taller. Asociacion De Promocion Y Desarrollo,Arequipa,Arequipa,Arequipa,educación / producción
+867,Empezamos Creciendo,Lima,Lima,Barranco,educación / género
+868,Emprendedoras Del Hogar,Lima,Lima,Santiago De Surco,educación / género
+869,Emprendedores Solidarios De Lambayeque - Emsolam,Lambayeque,Lambayeque,Chiclayo,género
+870,Empresariado,Callao,Callao,Callao,educación / producción
+871,Encuentros - Servicio Jesuita De La Solidaridad,Lima,Lima,Breña,gobernabilidad
+872,"Energia, Ambiente Y Sostenibilidad",Cajamarca,Cajamarca,Cajamarca,ambiente
+873,Enrumba,Lima,Lima,Miraflores,ambiente / educación / inclusión social / salud
+874,Entre Pares Asociacion Para El Desarrollo Educativo Participativo Y Pertinente - Asociacion Entre Pares,Lima,Lima,Barranco,género / inclusión social
+875,Equipo  De Promocion Y Capacitacion Amazonica,Junin,Junin,Satipo,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social / trabajo
+876,Equipo De Desarrollo Agropecuario De Cajamarca,Cajamarca,Cajamarca,Cajamarca,agropecuario / ambiente / ciencia y tecnología / educación / género / gobernabilidad
+877,Equipo De Educacion Y Autogestion Social,Lima,Lima,Jesus Maria,ambiente / educación / género / gobernabilidad / trabajo / vivienda y saneamiento
+878,Erart,Lima,Lima,Miraflores,salud
+879,Escuela Campesina De Educacion Y Salud Señor Cautivo De Ayabaca,Lima,Lima,Magdalena Del Mar,agropecuario / ambiente / educación / género / gobernabilidad / vivienda y saneamiento
+880,Escuela De Formacion Deportiva Y De Futbol Daniel Rios F.C.,Lima,Lima,Santiago De Surco,ambiente / economía / educación / género / gobernabilidad / salud / transportes y comunicaciones
+881,Escuela Mayor De Gestion Municipal,Lima,Lima,Villa El Salvador,género
+882,Escuela Para El Desarrollo,Lima,Lima,Magdalena Del Mar,género / inclusión social / producción
+883,Escuela Superior De Alta Gerencia,Cusco,Cusco,Sicuani,economía
+884,Espacio Comun,Lima,Lima,Barranco,salud
+885,Etnoartes Asociacion Civil,Lima,Lima,San Borja,género
+886,Familia Y Desarrollo,La Libertad,La Libertad,Trujillo,ambiente / educación / género / salud
+887,Federacion Nativa Del Rio Madre De Dios Y Afluentes,Madre De Dios,Madre De Dios,Tambopata,agropecuario / ambiente / comercio y turismo / educación
+888,Federacion Provincial De Mujeres De Ica,Ica,Ica,Ica,género
+889,Fiat Agal Ong,Piura,Piura,Piura,ambiente
+890,Ficus Peru Desarrollo Socio Ambiental,Lima,Lima,Santiago De Surco,ambiente / género
+891,"Filomena Tomaira Pacsi, Servicios A La Mujer Minera",Lima,Lima,Jesus Maria,energía/extractiva / género / salud
+892,Finca Peru,Ayacucho,Ayacucho,Ayacucho,producción
+893,First World Education Proeducaris,Lambayeque,Lambayeque,Motupe,género
+894,Fomento De Investigacion Y Accion Para El Desarrollo (Fiad),Piura,Piura,Piura,ambiente / educación / salud
+895,Fomento De La Vida,Lima,Lima,Jesus Maria,ambiente / gobernabilidad / producción / vivienda y saneamiento
+896,Fomento Y Desarrollo Ecologico De La Mineria,Lima,Lima,San Isidro,ambiente / educación
+897,"Fomento Y Desarrollo Renovable En La Agricultura, El Agua Y La Energia",Lima,Lima,Miraflores,ambiente
+898,Fondo De Agua Para Lima Y Callao - Aquafondo,Lima,Lima,San Isidro,educación
+899,Fondo De Desarrollo De La Universidad De Huanuco,Huanuco,Huanuco,Huanuco,agropecuario / educación
+900,Fondo Internacional De Ayuda A Mineros Artesanales - Fidamar,Lima,Lima,San Isidro,educación / inclusión social / salud
+901,Fondo Nacional Civil En Defensa Del Ambiente Del Peru Asociacion Sin Fines De Lucro,Lima,Lima,San Martin De Porres,ambiente / educación
+902,Fondo Verde Internacional,Junin,Junin,Huancayo,ambiente
+903,Forest Shambhala,Cusco,Cusco,Wanchaq,educación
+904,Foro Nacional Internacional,Lima,Lima,Santiago De Surco,educación / género / gobernabilidad
+905,Forum Solidaridad Peru,Lima,Lima,Lince,educación
+906,Foundation Non - Profit Association And Nongovernmental Organizations Saint Anthony Marianist Callao Peru For The Kids,Callao,Callao,La Perla,educación / género / salud
+907,Fundacion Amazonia Viva,San Martin,San Martin,Juanjui,ambiente
+908,Fundacion Calma,Lima,Lima,Jesus Maria,género
+909,Fundacion Caridad Mundial,Lima,Lima,Carabayllo,educación / género
+910,Fundacion Cayetano Heredia,Lima,Lima,Miraflores,ambiente / economía / educación / género / gobernabilidad / inclusión social / salud
+911,Fundacion Cesar Acuña Peralta,La Libertad,La Libertad,Trujillo,género
+912,Fundacion Comunal San Martin De Sechura,Piura,Piura,Sechura,ambiente
+913,Fundacion Cordon Del Plata Del Peru,Lima,Lima,Miraflores,ambiente / educación
+914,Fundacion Cristo Vive Peru,Cusco,Cusco,Cusco,género / inclusión social
+915,Fundacion De Desarrollo Integral Y Sostenible,Ica,Ica,Pueblo Nuevo,educación / gobernabilidad
+916,Fundacion Don Bosco,Lima,Lima,Breña,educación / inclusión social
+917,Fundacion Eco Verde,Amazonas,Amazonas,Chachapoyas,agropecuario / producción
+918,"Fundacion El Chico Laser, Ong",Lima,Lima,San Isidro,salud
+919,Fundacion Hope Holanda Peru,Cusco,Cusco,Cusco,educación / gobernabilidad / vivienda y saneamiento
+920,Fundacion Margarita,La Libertad,La Libertad,Trujillo,educación / salud
+921,Fundacion Museo Amano,Lima,Lima,Miraflores,cultura / educación
+922,Fundacion Nuestro Hogar A.N.A.R.,Lima,Lima,La Molina,educación / género / inclusión social
+923,"Fundacion Oftalmologica Del Norte, Piura Peru",Piura,Piura,Piura,salud
+924,Fundacion Olympic,Piura,Piura,Piura,educación / género
+925,Fundacion Para El Desarrollo Agrario,Lima,Lima,Jesus Maria,agropecuario / educación
+926,Fundacion Para El Desarrollo Solidario,Lima,Lima,Barranco,género / gobernabilidad / producción
+927,"Fundacion Para La Vida, Vivienda Y Educacion",Puno,Puno,Juliaca,educación
+928,Fundacion Por La Calidad De Vida De Los Mas Necesitados Chio Lecca,Lima,Lima,San Isidro,educación
+929,Fundacion San Marcos Para El Desarrollo De La Ciencia Y La Cultura,Lima,Lima,San Isidro,educación / inclusión social
+930,Fundacion Three Partners,Lima,Lima,Independencia,género
+931,Fundacion Trujillo Para El Desarrollo Educativo Y Social,La Libertad,La Libertad,Trujillo,educación
+932,Funderperu,Cajamarca,Cajamarca,Cajamarca,producción
+933,Futuro Cajay - Peru,Lima,Lima,Los Olivos,educación / género
+934,Futuro Sostenible,Lima,Lima,Miraflores,gobernabilidad / inclusión social
+935,Gestion Del Conocimiento Para El Desarrollo - Warmi,La Libertad,La Libertad,Victor Larco Herrera,ambiente / salud
+936,Global Humanitaria Peru,Puno,Puno,Puno,educación / salud
+937,God´S Freedom Financial Del Peru Organismo No Gubernamental,Lima,Lima,Jesus Maria,educación / género
+938,Good Life Private Club Inn,Lima,Lima,San Borja,género
+939,Good Neighbors Peru,Lima,Lima,Ate,educación / género
+940,Grupo De Analisis Para El Desarrollo,Lima,Lima,Barranco,educación / género / trabajo
+941,Grupo De Apoyo Al Desarrollo Sostenible,Lima,Lima,San Martin De Porres,educación
+942,Grupo De Formacion E Intervencion Para El Desarrollo Sostenible,Cajamarca,Cajamarca,Cajamarca,ciencia y tecnología / educación / género
+943,Grupo De Iniciativa Nacional Por Los Derechos Del Niño,Lima,Lima,Magdalena Del Mar,género / justicia
+944,Grupo Ecologico Barbara D'Achille Organizacion No Gubernamental,Arequipa,Arequipa,Jose Luis Bustamante Y Rivero,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad
+945,Grupo Gea,Lima,Lima,San Isidro,ambiente / educación / vivienda y saneamiento
+946,Grupo Gestor Kipece,Lima,Lima,Barranco,educación / género / salud
+947,Grupo Pro - Eco Progreso Y Ecologia,Lima,Lima,Santa Eulalia,ambiente / educación
+948,"Grupo Vigencia, Organizacion De Apoyo Social Al Adulto Mayor O.N.G.",Lima,Lima,Santiago De Surco,género / inclusión social
+949,Hampicamalloc,Callao,Callao,Callao,género
+950,Hatun Soncco,Cusco,Cusco,Wanchaq,ambiente / educación / género
+951,Hogar Clinica San Juan De Dios - Iquitos,Loreto,Loreto,Belen,género / gobernabilidad / salud
+952,Hogar De Vida,Lima,Lima,Magdalena Del Mar,inclusión social / salud
+953,Horizonte Corporativo,Lima,Lima,Miraflores,ambiente
+954,Horizontes En Medio Ambiente Y Salud,Lima,Lima,Pueblo Libre,ambiente / gobernabilidad / salud
+955,Huella Verde,Lima,Lima,Villa El Salvador,seguridad / vivienda y saneamiento
+956,Humanismus Instituto Humanista,La Libertad,La Libertad,Victor Larco Herrera,género
+957,Illa Tiksi,Lima,Lima,Lima,educación
+958,Imfundo Kahle,Lima,Lima,Miraflores,educación / inclusión social
+959,Incawasi - I.W.,Cajamarca,Cajamarca,Cajamarca,educación / salud
+960,Indoamerica Libre,La Libertad,La Libertad,Trujillo,educación
+961,Inka Terra Asociacion,Madre De Dios,Madre De Dios,Tambopata,ambiente / ciencia y tecnología
+962,Inmed Andes,Lima,Lima,Jesus Maria,educación
+963,Innovacion Y Progreso Juvenil Ucayali,Ucayali,Ucayali,Calleria,género / gobernabilidad
+964,Innovaciones Para El Desarrollo Sostenible,Puno,Puno,Puno,agropecuario / género
+965,Innovar Y Compartir,Lima,Lima,Los Olivos,educación
+966,Inpet - Instituto De Promocion Del Desarrollo Solidario,Lima,Lima,San Juan De Lurigancho,ambiente / género / producción
+967,Instituto  Cuanto,Lima,Lima,Magdalena Del Mar,ambiente
+968,Instituto Apoyo,Lima,Lima,San Isidro,ambiente / educación / justicia / producción
+969,Instituto Bartolome De Las Casas - Rimac,Lima,Lima,Lince,género / justicia
+970,Instituto Beatriz Merino Lucero,Lima,Lima,San Isidro,educación / género / salud
+971,Instituto Damos Vision,Lima,Lima,Jesus Maria,ciencia y tecnología / salud
+972,Instituto De Animacion Campesina Luis Vallejos Santoni,Cusco,Cusco,San Sebastian,ambiente / salud
+973,Instituto De Apoyo Al Manejo Del Agua De Riego - Costa Norte,Lambayeque,Lambayeque,Chiclayo,ciencia y tecnología / trabajo
+974,Instituto De Apoyo Social Y Desarrollo Rural Sostenible Del Peru,Apurimac,Apurimac,Andahuaylas,ambiente / educación
+975,Instituto De Apoyo Social Y Promocion Del Desarrollo Humano Vidas Mejores,Lima,Lima,San Miguel,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / producción / salud / trabajo
+976,Instituto De Apoyo Y Desarrollo Social Blansal,Arequipa,Arequipa,Cayma,ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social / salud / trabajo
+977,Instituto De Conservacion Ambiental Y Desarrollo Humano Sostenible Peru,Lima,Lima,Lima,ambiente / educación
+978,Instituto De Conservacion Del Patrimonio Construido,La Libertad,La Libertad,Trujillo,ambiente / educación
+979,Instituto De Cultivos Tropicales,San Martin,San Martin,La Banda De Shilcayo,agropecuario
+980,Instituto De Cultura Y Politica,Lima,Lima,San Isidro,educación / género
+981,Instituto De Defensa De Desarrollo Economico Y Derechos Humanos,Lima,Lima,Lima,educación / transportes y comunicaciones
+982,Instituto De Defensa Legal,Lima,Lima,San Isidro,ciencia y tecnología / género / gobernabilidad / justicia
+983,"Instituto De Desarrollo Agroindustrial, Social, Economico Y Ambiental De Selva Central",Junin,Junin,Perene,ambiente / vivienda y saneamiento
+984,Instituto De Desarrollo Agropecuario Y Servicios Asistenciales,Huanuco,Huanuco,Huanuco,agropecuario / ambiente
+985,Instituto De Desarrollo Ambiental Y Social,Lambayeque,Lambayeque,Jose Leonardo Ortiz,educación / género / salud
+986,Instituto De Desarrollo Comunal Urbano Marginal,Junin,Junin,El Tambo,agropecuario / ambiente
+987,Instituto De Desarrollo De La Pequeña Y Micro Empresa De La Region Grau,Piura,Piura,Piura,producción
+988,Instituto De Desarrollo Del Sector Informal De Huanuco,Huanuco,Huanuco,Huanuco,producción
+989,Instituto De Desarrollo Del Sector Informal De La Region Arequipa,Arequipa,Arequipa,Arequipa,producción
+990,Instituto De Desarrollo Del Sector Informal De Lambayeque,Lambayeque,Lambayeque,Chiclayo,agropecuario
+991,Instituto De Desarrollo Del Sector Informal Para La Libertad,La Libertad,La Libertad,Trujillo,educación / producción / trabajo
+992,Instituto De Desarrollo E Investigacion Rural,Apurimac,Apurimac,Abancay,producción
+993,"Instituto De Desarrollo Economico Ambiental Y Social ""Sin Limites""",Amazonas,Amazonas,Bagua,ambiente / educación / género
+994,Instituto De Desarrollo Economico Empresarial Social Y Agroindustrial,Lima,Lima,San Juan De Lurigancho,agropecuario
+995,Instituto De Desarrollo Educativo Y Social Markayachay,Huanuco,Huanuco,Amarilis,agropecuario / educación / gobernabilidad / inclusión social
+996,Instituto De Desarrollo Empresarial Y Academico,Ancash,Ancash,Huaraz,educación
+997,Instituto De Desarrollo Etico De America,Lima,Lima,Miraflores,ambiente / vivienda y saneamiento
+998,Instituto De Desarrollo Humano Seguir Creciendo - Ong,Moquegua,Moquegua,Moquegua,educación / género
+999,Instituto De Desarrollo Local Huancayo,Huanuco,Huanuco,Amarilis,género
+1000,Instituto De Desarrollo Multidisciplinario Para La Amazonia,San Martin,San Martin,La Banda De Shilcayo,ambiente / educación / salud
+1001,Instituto De Desarrollo Para La Inclusion Social Purisunchis,Cusco,Cusco,San Sebastian,educación / género / inclusión social
+1002,Instituto De Desarrollo Regional Cesar Vallejo,La Libertad,La Libertad,Trujillo,ambiente / género / producción / salud
+1003,Instituto De Desarrollo Rural - Juli,Puno,Puno,Juli,educación / género
+1004,Instituto De Desarrollo Urbano,Lima,Lima,Jesus Maria,ambiente / producción / vivienda y saneamiento
+1005,Instituto De Desarrollo Y Medio Ambiente,Lima,Lima,Surquillo,ambiente / economía / educación / salud
+1006,Instituto De Desarrollo Y Promocion De La Industria De Las Confecciones Textiles Y Calzado De Ucayali - Idp,Ucayali,Ucayali,Calleria,trabajo
+1007,"Instituto De Desarrollo, Investigacion Y Progreso - Ong´D",Huancavelica,Huancavelica,Pilchaca,agropecuario / ambiente / ciencia y tecnología / educación / género / gobernabilidad / inclusión social / producción / trabajo
+1008,Instituto De Educacion Rural (Ier - Juli),Puno,Puno,Juli,género
+1009,Instituto De Educacion Y Salud,Lima,Lima,Jesus Maria,educación / género / gobernabilidad / inclusión social / salud
+1010,Instituto De Estudios Andinos Democracia Y Justicia,Junin,Junin,Tarma,ambiente / educación / género / justicia / salud
+1011,Instituto De Estudios Aymara Ludovico Bertonio,Arequipa,Arequipa,Arequipa,educación
+1012,Instituto De Estudios De Las Culturas Andinas - Peru,Puno,Puno,Puno,educación
+1013,"Instituto De Estudios En Salud, Sexualidad Y Desarrollo Humano",Lima,Lima,Miraflores,salud
+1014,Instituto De Estudios Peruanos,Lima,Lima,Jesus Maria,educación / género
+1015,Instituto De Estudios Por La Infancia Y La Familia,Lima,Lima,Jesus Maria,educación / género
+1016,Instituto De Fomento De Una Educacion De Calidad,Lima,Lima,Pueblo Libre,ambiente / educación / salud / trabajo
+1017,Instituto De Fomento Tecnologico Y Cooperacion Rural Andino,Puno,Puno,Puno,ambiente / inclusión social
+1018,"Instituto De Formacion Agropecuaria, Agroindustrial, Artesanal Y Cultural",Puno,Puno,Puno,agropecuario / economía
+1019,Instituto De Formacion De Adolescentes Y Niños Trabajadores Nagayama Norio (Infant),Lima,Lima,San Juan De Miraflores,género
+1020,"Instituto De Formacion De Educadores De Jovenes, Adolescentes Y Niños Trabajadores Para America Latina Y El Caribe ""Monseñor German Schmitz""",Lima,Lima,Lince,educación / género / gobernabilidad
+1021,"Instituto De Formacion Social, Comunicacion Y Juventud",Moquegua,Moquegua,Torata,género
+1022,Instituto De Gestion De Cuencas Hidrograficas,Piura,Piura,Piura,agropecuario / ambiente / ciencia y tecnología / economía / género / gobernabilidad / producción / trabajo
+1023,Instituto De Gestion Gubernamental Y Estudios Amazonicos,San Martin,San Martin,Tarapoto,educación / salud
+1024,Instituto De Innovacion Digital,Lima,Lima,Jesus Maria,producción
+1025,Instituto De Integracion Y Desarrollo Social,Huanuco,Huanuco,Huanuco,educación
+1026,Instituto De Investigacion Biologica De Las Cordilleras Orientales,San Martin,San Martin,Tarapoto,ambiente
+1027,Instituto De Investigacion Gubernamental Por El Desarrollo Humano Y Economico - Idhe,Ayacucho,Ayacucho,Ayacucho,ambiente / inclusión social
+1028,Instituto De Investigacion Nutricional,Lima,Lima,La Molina,ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / salud
+1029,Instituto De Investigacion Para El Desarrollo Integral-Mundo Cristiano Ongd,Lima,Lima,Lima,agropecuario / género
+1030,Instituto De Investigacion Para El Desarrollo Rural Agroindustrial Y Medio Ambiente,Puno,Puno,Puno,ambiente / economía / educación / género / gobernabilidad / producción / salud / trabajo / vivienda y saneamiento
+1031,Instituto De Investigacion Y Desarrollo Andino,Apurimac,Apurimac,Tamburco,ambiente / economía / educación / género / gobernabilidad / salud
+1032,Instituto De Investigacion Y Desarrollo Andino - Amazonico,Cusco,Cusco,Wanchaq,agropecuario
+1033,Instituto De Investigacion Y Desarrollo Economico Social Desarrollo Y  Paz,La Libertad,La Libertad,Trujillo,agropecuario / ambiente / ciencia y tecnología / comercio y turismo / economía / educación / género / gobernabilidad / justicia / producción / salud / trabajo / vivienda y saneamiento
+1034,Instituto De Investigacion Y Desarrollo Regional,Junin,Junin,El Tambo,educación / género / inclusión social / salud
+1035,"Instituto De Investigacion Y Desarrollo Social ""Policushum Cuscalla""",Junin,Junin,Chilca,educación
+1036,Instituto De Investigacion Y Desarrollo Socioeconomico Para La Amazonia Peruana,San Martin,San Martin,Tarapoto,ambiente / vivienda y saneamiento
+1037,Instituto De Investigacion Y Promocion Social Del Norte,La Libertad,La Libertad,Trujillo,inclusión social / salud / trabajo / vivienda y saneamiento
+1038,"Instituto De Investigacion, Capacitacion Y Promocion (Iincap) Jorge Basadre",Cajamarca,Cajamarca,Cajamarca,ambiente / género
+1039,"Instituto De Investigacion, Desarrollo Y Asistencia Tecnica",La Libertad,La Libertad,La Esperanza,ambiente / educación / salud
+1040,"Instituto De Investigacion, Desarrollo, Concertacion Y Cultura De Paz",Lima,Lima,Santiago De Surco,ambiente / género
+1041,Instituto De Investigaciones Para El Desarrollo Tecnologico Y Social,Huanuco,Huanuco,Rupa-Rupa,ambiente / educación / gobernabilidad / inclusión social / producción
+1042,Instituto De Liderazgo Y Desarrollo,San Martin,San Martin,Rioja,educación / salud
+1043,Instituto De Medio Ambiente Y Genero Para El Desarrollo,Cusco,Cusco,Wanchaq,ambiente
+1044,Instituto De Pedagogia Popular,Lima,Lima,Pueblo Libre,educación / género
+1045,Instituto De Prevencion Y Rehabilitacion Oftalmologica De La Selva,San Martin,San Martin,La Banda De Shilcayo,educación / salud
+1046,"Instituto De Promocion De La Mujer, Infancia Y Familia",Lima,Lima,Pueblo Libre,educación / género / gobernabilidad / justicia
+1047,Instituto De Promocion Para La Gestion Del Agua,Lima,Lima,Jesus Maria,ambiente / trabajo
+1048,Instituto De Promocion Y Desarrollo Andino Llancasun,Apurimac,Apurimac,Talavera,agropecuario / ciencia y tecnología / economía / educación / salud
+1049,Instituto De Promocion Y Desarrollo Ozono,Lambayeque,Lambayeque,Pimentel,educación / producción
+1050,Instituto De Promocion Y Desarrollo Sostenible De La Pequeña Empresa (Indespe),Lima,Lima,Santiago De Surco,género
+1051,Instituto De Promocion Y Educacion Popular,Ancash,Ancash,Chimbote,educación
+1052,Instituto De Promocion Y Proyeccion Social Inkawasi Kañaris,Lambayeque,Lambayeque,Ferreñafe,educación
+1053,"Instituto De Reafirmacion De Los Pueblos Aimaras, Quechuas Y Amazonences-Peru",Lima,Lima,Lima,agropecuario / ambiente / cultura / economía / género / gobernabilidad / producción
+1054,Instituto De Salud Popular,Lima,Lima,Santiago De Surco,educación / gobernabilidad / salud
+1055,Instituto De Solidaridad Social Juan Pablo Ii,Cusco,Cusco,San Sebastian,educación
+1056,Instituto De Superacion Social Prodesarrollo,Huanuco,Huanuco,Amarilis,educación
+1057,Instituto Del Bien Comun,Lima,Lima,Jesus Maria,ambiente
+1058,Instituto Del Paramo,Lima,Lima,Santiago De Surco,ambiente
+1059,Instituto Ecoturistico Y Desarrollo De Montañas,Huanuco,Huanuco,Huanuco,educación
+1060,Instituto Geopolitico Latinoamericano,Lima,Lima,Lince,educación
+1061,Instituto Guillermina Kcomt,La Libertad,La Libertad,Chepen,gobernabilidad
+1062,Instituto Integral De Desarrollo Comunal - Indesco,Huancavelica,Huancavelica,Huancavelica,género / gobernabilidad / inclusión social
+1063,Instituto Internacional Educativo Para El Desarrollo Y Empleo Familiar,Lima,Lima,Villa Maria Del Triunfo,economía / educación
+1064,Instituto Invertir,Lima,Lima,San Isidro,producción
+1065,Instituto Libertad,Arequipa,Arequipa,Jose Luis Bustamante Y Rivero,inclusión social / salud
+1066,Instituto Libertad Y Democracia,Lima,Lima,Miraflores,gobernabilidad / justicia
+1067,Instituto Mallku Para El Desarrollo Sostenible,Puno,Puno,Puno,ambiente / género / salud
+1068,Instituto Mundo Libre,Lima,Lima,Pachacamac,género
+1069,Instituto Nacional De Investigaciones Socio-Economicas Para El Desarrollo Peru Machupicchu,Lima,Lima,Lima,agropecuario / educación / género
+1070,Instituto Natura,Ancash,Ancash,Chimbote,agropecuario / salud
+1071,Instituto Paititi De Preservacion De Ecologia Y Cultura Indigena,Cusco,Cusco,Calca,ambiente / comercio y turismo / inclusión social
+1072,Instituto Para El Desarrollo Economico Y Social De Los Andes Del Sur Del Peru,Lima,Lima,Pueblo Libre,educación / género
+1073,Instituto Para El Desarrollo Infantil - Arie,Lima,Lima,La Molina,género
+1074,Instituto Para El Desarrollo Integral Y Conservacion De La Amazonia,Loreto,Loreto,Iquitos,educación / gobernabilidad / salud
+1075,Instituto Para El Desarrollo Y Bienestar Socio Economico Del Peru - Idebisep,La Libertad,La Libertad,Trujillo,ambiente / género / inclusión social
+1076,Instituto Para El Desarrollo Y La Paz Amazonica,San Martin,San Martin,Tarapoto,agropecuario / ambiente / ciencia y tecnología / educación / género / gobernabilidad / salud
+1077,"Instituto Para El Desarrollo, Prevencion Y Reduccion Del Riesgo - Ong",Lima,Lima,Santiago De Surco,ambiente / inclusión social
+1078,Instituto Para El Fomento De La Paz Y Desarrollo,Ayacucho,Ayacucho,Ayacucho,gobernabilidad
+1079,Instituto Para La Ecoeficiencia Y Sostenibilidad Ambiental Amazonica - Iesam,Loreto,Loreto,Belen,ambiente / educación
+1080,Instituto Para La Investigacion Pedagogica Yachay Wasi,Arequipa,Arequipa,Arequipa,educación
+1081,Instituto Para La Investigacion Y El Desarrollo Economico Y Social De Huancavelica,Huancavelica,Huancavelica,Huancavelica,cultura / educación / salud / vivienda y saneamiento
+1082,Instituto Peruano De Accion Empresarial,Lima,Lima,Miraflores,educación
+1083,Instituto Peruano De Educacion En Derechos Humanos Y La Paz,Lima,Lima,Pueblo Libre,educación / gobernabilidad / inclusión social / justicia
+1084,Instituto Peruano De Fomento Educativo,Lima,Lima,Magdalena Del Mar,educación / género
+1085,Instituto Peruano de Investigación de Familia y Población,Lambayeque,Lambayeque,Chiclayo,gobernabilidad
+1086,Instituto Peruano de Paternidad Responsable,Lima,Lima,Jesus Maria,educación / género / gobernabilidad / inclusión social / salud
+1087,Instituto Peruano para el Desarrollo Amazonico,Huanuco,Huanuco,Huanuco,agropecuario / producción
+1088,Instituto Prensa Y Sociedad,Lima,Lima,Miraflores,ciencia y tecnología / cultura / educación / género / gobernabilidad / justicia
+1089,Instituto Proactivo,Lima,Lima,San Isidro,educación
+1090,Instituto Promocion Y Desarrollo Agrario,Lima,Lima,Barranco,género / trabajo
+1091,Instituto Promoviendo Desarrollo Social  Iprodes,Lima,Lima,Jesus Maria,ambiente / género / gobernabilidad / justicia / salud
+1092,Instituto Proyecto Solidaridad Global - Ipsg,Lima,Lima,Jesus Maria,ambiente / educación / inclusión social / justicia / producción / salud
+1093,Instituto Pueblo Y Desarrollo Peru,Lima,Lima,Jesus Maria,ambiente / educación
+1094,Instituto Redes De Desarrollo Social,Lima,Lima,Jesus Maria,género
+1095,Instituto Region Y Desarrollo,Apurimac,Apurimac,Abancay,ciencia y tecnología / economía / educación / género / gobernabilidad / salud
+1096,Instituto Regional De Asesoramiento Y Estudios Peruano Amazonico,San Martin,San Martin,Tarapoto,educación / producción
+1097,Instituto Regional Para La Educacion Y El Desarrollo,Junin,Junin,Huancayo,ambiente
+1098,Instituto Runa De Desarrollo Y Estudios Sobre Genero,Lima,Lima,San Miguel,cultura / educación / gobernabilidad / salud
+1099,Instituto Tangarana,Loreto,Loreto,Belen,ambiente
+1100,Instituto Teleducativo Los Tallanes,Piura,Piura,Castilla,educación
+1101,Instituto Trabajo Y Familia,Lima,Lima,Santiago De Surco,educación / trabajo
+1102,Instituto Ventana Al Saber,Lima,Lima,Lima,agropecuario / ambiente
+1103,Integracion Y Solidaridad,Lima,Lima,Ate,educación / género / gobernabilidad / inclusión social / salud / trabajo
+1104,"International Association For The Study Of Sexuality, Culture And Society",Lima,Lima,Miraflores,ciencia y tecnología
+1105,Inti Huahuacuna,Cusco,Cusco,Santiago,género
+1106,Investigacion En Clima Para La Accion,Lima,Lima,Pueblo Libre,ambiente
+1107,Investigacion Integrales De Proyectos Desarrollo Rural Andina Amazonico,Ayacucho,Ayacucho,Ayacucho,ambiente / educación
+1108,Investigacion Para El Desarrollo Y Educacion Medio Ambiental,Junin,Junin,Chilca,ambiente / género / salud
+1109,Investigaciones Medicas En Salud,Lima,Lima,Lince,educación / género / salud
+1110,Ipes Promocion Del Desarrollo Sostenible,Lima,Lima,San Isidro,ambiente / género / producción / vivienda y saneamiento
+1111,Junta De Desarrollo Distrital De Pamparomas,Ancash,Ancash,Pamparomas,agropecuario
+1112,Junta De Usuarios De Agua De La Cuenca Del Rio Moche,La Libertad,La Libertad,Trujillo,agropecuario
+1113,Junta Nacional Del Cafe,Lima,Lima,Jesus Maria,agropecuario
+1114,Juventud Sin Fronteras Del Peru,Junin,Junin,Pichanaqui,ambiente / educación
+1115,Kaipacha Inti Para Ayuda Al Peru,Junin,Junin,Satipo,agropecuario / educación / género / salud / vivienda y saneamiento
+1116,Kallpa Wayna Inti Peru,La Libertad,La Libertad,Trujillo,ambiente / vivienda y saneamiento
+1117,Kanan Huarak,Lima,Lima,San Miguel,educación / género
+1118,Kene Instituto de Estudios Forestales y Ambientales,Lima,Lima,Pueblo Libre,ambiente
+1119,Krochet Kids Peru,Lima,Lima,Chorrillos,educación / género
+1120,Kunamia,Lima,Lima,San Miguel,educación / género
+1121,La Casa De La Mujer,Ancash,Ancash,Chimbote,género
+1122,Latitud Sur,Loreto,Loreto,Iquitos,salud
+1123,Legion Sos,Lima,Lima,Santiago De Surco,educación / género / salud
+1124,Lesbianas Independientes Feministas Socialistas,Lima,Lima,Lince,género
+1125,Libelula Instituto Para El Cambio Global,Lima,Lima,Barranco,educación / género
+1126,Lideres Profesionales Para La Capacitacion Empresarial,Huanuco,Huanuco,Amarilis,ciencia y tecnología / educación / género / gobernabilidad / inclusión social / justicia / trabajo
+1127,Liga Peruana Pro-Derechos Humanos,Lima,Lima,Surquillo,género
+1128,Llankaq Warmi,La Libertad,La Libertad,Trujillo,ambiente / género / gobernabilidad / inclusión social / producción / salud
+1129,Loreto Sin Fronteras,Loreto,Loreto,Iquitos,ambiente / educación / gobernabilidad
+1130,Loreto Vida Amazonica,Loreto,Loreto,San Juan Bautista,ambiente / educación
+1131,Los Siete Remanentes De Cristo,Junin,Junin,El Tambo,género / vivienda y saneamiento
+1132,Luces Para La Humanidad,Puno,Puno,Juliaca,ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social / trabajo
+1133,Management Sciences For Health - Peru,Lima,Lima,San Isidro,salud
+1134,Mano A Mano Peru,Lima,Lima,Comas,género
+1135,Mas Esperanza De Vida Y Salud - Ong´D,La Libertad,La Libertad,San Pedro De Lloc,salud
+1136,Masi Ayllu,Ica,Ica,Ica,género
+1137,Md+Salud,Lima,Lima,Santiago De Surco,salud
+1138,Mda - Mecanismos De Desarrollo Alternos,Lima,Lima,San Isidro,ambiente / producción
+1139,Microcredito Para El Desarrollo La Ch´Uspa,Cusco,Cusco,Cusco,economía / género
+1140,Microjusticia Peru - Ongd,Lima,Lima,Comas,justicia
+1141,Ministerio Internacional De Desarrollo,Lima,Lima,San Isidro,educación / género
+1142,Ministerio Sembrando El Retorno - Salvando Vidas,Lambayeque,Lambayeque,Chiclayo,ambiente / educación / género / gobernabilidad
+1143,Minka Trujillo,La Libertad,La Libertad,Trujillo,ciencia y tecnología / inclusión social
+1144,Mision Evangelica Del Principe De Paz,Lima,Lima,Comas,educación / género
+1145,Mision Hombres De Valor,Junin,Junin,Rio Negro,género
+1146,Mision Internacional Catedral De Vida,La Libertad,La Libertad,Trujillo,educación / género
+1147,Mision Medica Catolica - Cmmb Del Peru,Lima,Lima,San Isidro,salud
+1148,Mision Padre Hijo Y Espiritu Santo,Lima,Lima,Chorrillos,género
+1149,Mision Solidaria - Miso,Lima,Lima,Lima,cultura / educación
+1150,Mision Suiza En El Peru,Ucayali,Ucayali,Yarinacocha,educación / inclusión social / vivienda y saneamiento
+1151,Mision Wanca,Junin,Junin,Huancayo,inclusión social
+1152,Misiones Con Proposito,Huanuco,Huanuco,Huanuco,ambiente / educación / salud
+1153,Misiones Del Agua Peru,Loreto,Loreto,Belen,ambiente
+1154,Mother Pacha,Lima,Lima,Jesus Maria,educación / gobernabilidad / inclusión social / salud / vivienda y saneamiento
+1155,Movimiento Apostolico De Laicos Ccrisma,Lima,Lima,San Miguel,educación / género
+1156,Movimiento Ciudadano Frente Al Cambio Climatico,Lima,Lima,Jesus Maria,ambiente
+1157,Movimiento De Adolescentes Y Niños Trabajadores Hijos De Obreros Cristianos,Lima,Lima,San Luis,educación / género / inclusión social / salud
+1158,Movimiento De Promocion Por Los Derechos Humanos De Las Mujeres Amhauta,Cusco,Cusco,Wanchaq,ambiente / educación / gobernabilidad
+1159,Movimiento El Pozo,Lima,Lima,Breña,género / justicia
+1160,Movimiento Manuela Ramos,Lima,Lima,Pueblo Libre,educación / género / gobernabilidad / inclusión social / justicia / producción
+1161,Movimiento Nacional Del Niño Y Adolescente Trabajador Organizados Del Peru,Lima,Lima,San Juan De Miraflores,género
+1162,Movimiento Para La Realizacion Del Habitat Social,Piura,Piura,Piura,ambiente / educación / género / salud
+1163,Movimiento Peruanos Sin Agua,Lima,Lima,Surquillo,agropecuario / ambiente
+1164,Movimiento Siervos De Los Pobres Del Tercer Mundo,Cusco,Cusco,Andahuaylillas,educación / gobernabilidad / inclusión social
+1165,Mujeres Del Peru,Junin,Junin,Huancayo,género
+1166,Naturaleza Y Cultura Peru,Loreto,Loreto,Iquitos,educación
+1167,Nedeelir Juntos & Contigo,Junin,Junin,Huancayo,ambiente / género
+1168,Ngo Esperanza,Lima,Lima,La Molina,educación / inclusión social
+1169,Niño Tambo Hosanna (Nitahos),Ucayali,Ucayali,Campoverde,género
+1170,Niños Del Cusco,Cusco,Cusco,Wanchaq,género / salud
+1171,Noble Accion,Lima,Lima,Pueblo Libre,educación / gobernabilidad
+1172,Nongovernmental Organization For Development Health Agroindustries Freedom Housing And Ecosystems Peru,La Libertad,La Libertad,Victor Larco Herrera,gobernabilidad
+1173,Nuestro Horizonte Verde,Loreto,Loreto,Iquitos,ambiente
+1174,Nutricion Y Ambiente Saludable Para La Infancia,Ucayali,Ucayali,Calleria,salud
+1175,"O.N.G ""Animate Para Vivir""",Huanuco,Huanuco,Amarilis,ambiente / educación
+1176,O.N.G. Asociacion Humanistica Inka Socratica Con Vision Universal Del Peru,Junin,Junin,El Tambo,género
+1177,O.N.G. Asociacion Para El Desarrollo De La Infraestructura Educativa En La Provincia De Jaen,Cajamarca,Cajamarca,Jaen,educación
+1178,O.N.G. De Apoyo Para Discapacidad Esperanza Nueva Vida,Ancash,Ancash,Nuevo Chimbote,género / salud
+1179,O.N.G. Inchatomashi,Junin,Junin,Mazamari,educación
+1180,O.N.G. Instituto Nacional Agro-Ecologico Industrial Del Peru,Lima,Lima,San Juan De Lurigancho,educación / inclusión social
+1181,O.N.G. Jovenes Imparables,Ancash,Ancash,Chimbote,ambiente
+1182,O.N.G. Kerigma,Junin,Junin,El Tambo,agropecuario / ciencia y tecnología / educación / género / gobernabilidad / inclusión social / producción / salud / trabajo
+1183,O.N.G. Mama Alice,Ayacucho,Ayacucho,Ayacucho,educación / salud / vivienda y saneamiento
+1184,O.N.G.D. Fortalecimiento Creativo De Capacidades Distintivas,Lima,Lima,Jesus Maria,justicia / salud
+1185,Oficina De Solidaridad De Los Carmelitas Descalzos De Peru,Lima,Lima,Lima,educación
+1186,Oficina Tecnica De Apoyo Rural,Ayacucho,Ayacucho,Ayacucho,agropecuario / producción
+1187,Ojo En La Cerradura,Lima,Lima,Magdalena Del Mar,ambiente / educación / género / inclusión social
+1188,"Onampitsite, Noshaninkaye, Tzinani",Lima,Lima,Ate,inclusión social
+1189,One To One Personal Teaching Asociacion Cultural Educativa Australia Peru,Lima,Lima,San Borja,educación
+1190,Ong - Aposento Del Oriente,Ucayali,Ucayali,Calleria,educación / género
+1191,Ong - Asociacion Defensora De Los Animales Y El Medio Ambiente  Adaa,Huanuco,Huanuco,Huanuco,ambiente / salud
+1192,Ong - Centro De Investigacion Y Desarrollo Peruano,Huancavelica,Huancavelica,Huancavelica,ambiente
+1193,Ong - Gotas De Agua Viva,Lima,Lima,San Martin De Porres,ambiente / inclusión social / justicia
+1194,Ong - Sociedad Peruana De Agroecologia Cultura Y Desarrollo Integral,Junin,Junin,Huacrapuquio,ambiente
+1195,Ong Accion Para El Desarrollo,Lambayeque,Lambayeque,Chiclayo,ambiente / educación / género / salud
+1196,Ong Alternativa Solidaria Para El Desarrollo En Sudamerica,Junin,Junin,Huancayo,gobernabilidad / justicia / producción / vivienda y saneamiento
+1197,Ong Ambiental Aguas Es Vida,Junin,Junin,El Tambo,ambiente
+1198,Ong Amor Y Compasion,La Libertad,La Libertad,Trujillo,educación / género
+1199,Ong Asociacion De Las Amigas De La Tercera Edad De Calcuta,Ancash,Ancash,Independencia,educación
+1200,Ong Asociacion Pro Desarrollo Peru-Vida,Lima,Lima,San Borja,agropecuario / educación / género / salud
+1201,Ong Avancemos Juntos,La Libertad,La Libertad,Chepen,educación
+1202,Ong Ayudacushun,Ancash,Ancash,Nuevo Chimbote,género / inclusión social
+1203,Ong Ayudacushun Aukis,Ancash,Ancash,Chimbote,género
+1204,Ong Bienestar Y Salud Tercera Edad,La Libertad,La Libertad,Trujillo,educación / género
+1205,Ong Biofides,Lima,Lima,Jesus Maria,ambiente / género
+1206,Ong Bonllol Tierra Firme De Corobamba,Lima,Lima,La Victoria,ambiente / género
+1207,Ong Cajamarquinos Sin Fronteras,Cajamarca,Cajamarca,Cajamarca,ambiente
+1208,Ong Carta De La Tierra Peru,Lima,Lima,Barranco,género
+1209,Ong Centro De Ecodesarrollo Y Accion Rural,Junin,Junin,Chupaca,agropecuario / vivienda y saneamiento
+1210,Ong Centro De Promocion Y Defensa De Los Derechos Sexuales Y Reproductivos,Madre De Dios,Madre De Dios,Tambopata,educación / género / justicia
+1211,Ong Centro Peruano De La Mujer Y El Niño - Niña Caminar,Cajamarca,Cajamarca,Jaen,género
+1212,Ong Construyendo Un Mañana Con Bienestar Y Responsabilidad,Huanuco,Huanuco,Amarilis,ambiente / educación / género
+1213,Ong Contigo Peru,Junin,Junin,El Tambo,educación
+1214,Ong Coremar Peru,Huanuco,Huanuco,Amarilis,ambiente / género
+1215,Ong Cree En Ti,Lima,Lima,Villa Maria Del Triunfo,educación
+1216,Ong Cultura Viva Ahora,Ayacucho,Ayacucho,Ayacucho,ambiente / inclusión social / seguridad
+1217,Ong De Asistencia En Proyectos Sociales Del Canipaco Y Zona Altina,Lima,Lima,La Victoria,agropecuario
+1218,Ong Despertar A La Luz,Arequipa,Arequipa,Paucarpata,educación / inclusión social / salud
+1219,Ong Eco Desarrollo Y Nueva  Alternativa De Vida,Lambayeque,Lambayeque,Lambayeque,ambiente / educación / género / inclusión social
+1220,Ong Ecoaldea Utapalca,Ica,Ica,Chavin,ambiente / educación
+1221,Ong Fondo De Apoyo Al Desarrollo Regional De Piura,Piura,Piura,Castilla,energía/extractiva / género
+1222,Ong Gestion Ambiental De Integracion Social Para El Desarrollo Sostenible,Junin,Junin,El Tambo,ambiente / género
+1223,Ong Hampaq Peru,Lima,Lima,Lima,ambiente
+1224,Ong Huascaran Progreso,Ancash,Ancash,Independencia,ambiente
+1225,Ong Instituto De Investigacion Y Desarrollo Economico Social Los Andes,La Libertad,La Libertad,Trujillo,inclusión social / justicia
+1226,Ong Intiwata Peru,Lambayeque,Lambayeque,Jose Leonardo Ortiz,género / gobernabilidad
+1227,Ong Jovenes En Riesgo Hacia Un Futuro Diferente,Lima,Lima,Santiago De Surco,educación / gobernabilidad
+1228,Ong La Chozita De La Felicidad,Huanuco,Huanuco,Rupa-Rupa,educación / género
+1229,Ong Las Manos Que Ayudan De Corazon,Lima,Lima,Miraflores,educación / género
+1230,Ong Leonardo Manuel,Junin,Junin,El Tambo,género / salud
+1231,Ong Lily Bergerot Reategui - Libere,Lima,Lima,San Miguel,inclusión social
+1232,Ong Loreto Pulmon Del Mundo,Loreto,Loreto,Iquitos,agropecuario
+1233,Ong Manos Fuertes,Lima,Lima,Miraflores,educación / género / salud
+1234,Ong Maria De Los Angeles (Una Nueva Esperanza Para Ti),Lima,Lima,San Juan De Lurigancho,educación
+1235,"Ong Medicina, Ciencia Y Tecnologia",Loreto,Loreto,Iquitos,salud
+1236,Ong Mi Esperanza,Lima,Lima,San Martin De Porres,agropecuario / género
+1237,Ong Mundo Unido,Cajamarca,Cajamarca,Cajamarca,educación
+1238,Ong Pamparomas Creciendo Juntos,Ancash,Ancash,Pamparomas,educación / género
+1239,Ong Pastoral Penitenciaria San Francisco De Asis - Ofs Oppsafa,Lambayeque,Lambayeque,Chiclayo,educación / salud
+1240,Ong Pirqay Peru,Lima,Lima,San Miguel,ambiente / género
+1241,Ong Proyecto De Recuperacion Y Defensa De Medio Ambiente Con Desarrollo De Agro Industria Sostenido Huanuco - Ucayali - Ancash - Pasco,Huanuco,Huanuco,Huanuco,ambiente / educación / vivienda y saneamiento
+1242,Ong Renovador Impulso,Lima,Lima,San Juan De Lurigancho,género
+1243,Ong Rural Yanapekayame Musoq Kawakipac,Ancash,Ancash,Casma,ambiente / educación / género
+1244,Ong Salvamento Auxilio Rescate Peru 127,Lima,Lima,San Juan De Lurigancho,género / gobernabilidad
+1245,Ong San Benito De Palermo,Callao,Callao,La Perla,ambiente / educación / género / inclusión social / salud
+1246,"Ong Solidaridad, Fe Y Esperanza",Lima,Lima,San Vicente De Cañete,ambiente / educación
+1247,Ong Somos Mas Que Vencedores En Cristo Jesus,Lima,Lima,La Molina,economía / educación / salud
+1248,Ong Sumaq Yachay,Junin,Junin,Concepcion,ambiente / inclusión social
+1249,Ong Taushiro,Loreto,Loreto,Iquitos,ambiente
+1250,Ong Uno Para Todos Y Todos Para Uno,Lima,Lima,San Juan De Miraflores,educación / género
+1251,Ong Vida Saludable Y Desarrollo Peru,Ancash,Ancash,Huaraz,ambiente / género
+1252,Ong Vida Verde Y Derechos Humanos Para Las Regiones Unidas Del Peru Y El Mundo,Ayacucho,Ayacucho,Ayacucho,ambiente / gobernabilidad / inclusión social / justicia
+1253,Ong. Arcores Peru,Cajamarca,Cajamarca,Chota,educación / género
+1254,Ong. Cedefa - Cochabamba,Cajamarca,Cajamarca,Cochabamba,ambiente / inclusión social
+1255,Ong. Desarrollo Integral Y Armonico En Cristo,Junin,Junin,Huancayo,género
+1256,Ong. Liderazgo & Desarrollo Social,Junin,Junin,El Tambo,ambiente
+1257,Ong´D Atupcan,Loreto,Loreto,Iquitos,ambiente / educación / salud
+1258,Ong´D Nuevo Rumbo,Lima,Lima,La Molina,economía / educación / salud
+1259,Ong-Centro De Investigacion Productiva Comunal,Junin,Junin,El Tambo,salud
+1260,Ongd - Llamellin,Lima,Lima,Huaura,ambiente / ciencia y tecnología / trabajo
+1261,Ongd Agua Para El Mundo Paz Y Amor Ld,La Libertad,La Libertad,Trujillo,educación / gobernabilidad
+1262,Ongd Asociacion Para La Biodiversidad Sostenible,Pasco,Pasco,Oxapampa,ambiente
+1263,Ongd Corazones Milagrenses,La Libertad,La Libertad,Trujillo,educación / género / salud
+1264,Ongd Creciendo Juntos San Miguel Arcangel,Junin,Junin,El Tambo,educación / género
+1265,"Ongd De Ayuda, Cooperacion, Solidaridad Y Amor Sin Fronteras",La Libertad,La Libertad,Victor Larco Herrera,educación / género
+1266,Ong'D He3 Helio Energy And Environmental Engineering,Piura,Piura,Piura,agropecuario / ambiente / educación / género / salud
+1267,Ongd Imasumac,Huanuco,Huanuco,Ambo,ambiente / gobernabilidad
+1268,Ongd Llankasun Peru,Apurimac,Apurimac,Curahuasi,educación / inclusión social
+1269,Ong'D Luz Y Esperanza,Lima,Lima,Barranco,vivienda y saneamiento
+1270,Ongd Por Amor A Tumbes,Tumbes,Tumbes,Tumbes,ambiente / comercio y turismo / género
+1271,Ongd Proyecto Solidario Por La Infancia Peru,Junin,Junin,El Tambo,género
+1272,Ongd Sos Pan Peru,Lima,Lima,Jesus Maria,ambiente / educación / género / salud / vivienda y saneamiento
+1273,Ongd Tierra Nuestra-Peru,Lima,Lima,San Isidro,género
+1274,Ongd Trabajando Juntos Lograremos El Exito,Lima,Lima,San Martin De Porres,educación / producción / salud / trabajo
+1275,Ongd Trascender Peru,Junin,Junin,Huancayo,educación / género
+1276,Ongd Unidos Con Dios,Ica,Ica,Parcona,educación / salud
+1277,Ongd Valle Verde,Piura,Piura,Castilla,agropecuario / ambiente / educación / inclusión social / producción / salud / vivienda y saneamiento
+1278,Ongd Vidas Dignas - Peru,Lima,Lima,Santiago De Surco,educación
+1279,"Ongd, Profesionales Con Vision Para El Desarrollo Sostenible",Huanuco,Huanuco,Amarilis,género
+1280,Ong-Kuskay Risun-Drer,Junin,Junin,Huancayo,ambiente / educación
+1281,Ongs Para El Servicio Asistencial De Salud Del Alto Andino Del Rio Huallaga Departamento De Huanuco Distrito De Pillco Marca,Huanuco,Huanuco,Pillco Marca,género
+1282,Operacion San Andres-Ong,Lima,Lima,Pueblo Libre,educación / género / salud
+1283,Operation Underground Railroad Peru,Lima,Lima,Miraflores,gobernabilidad
+1284,"Organismo No Gubernamental ""Kuska Qatarisun""",Ayacucho,Ayacucho,Ayacucho,ambiente / producción / trabajo
+1285,Organismo No Gubernamental Centro De Promocion Del Desarrollo,Lima,Lima,Magdalena Del Mar,agropecuario / ambiente / transportes y comunicaciones
+1286,Organismo No Gubernamental Clinica Albergue Oncopediatrico Shari Wasi,Lima,Lima,Santiago De Surco,género
+1287,Organismo No Gubernamental De Desarrollo - Asociacion Hagamoslo,Lima,Lima,Santiago De Surco,inclusión social
+1288,Organismo No Gubernamental De Desarrollo - Centro De Investigacion Para El Desarrollo Integral Y Sostenible,Huanuco,Huanuco,Amarilis,agropecuario / ambiente / educación / género / salud
+1289,"Organismo No Gubernamental De Desarrollo Asociacion Civil ""Protejamos La Amazonia""",Loreto,Loreto,Iquitos,ambiente / género / salud
+1290,Organismo No Gubernamental De Desarrollo Elite,Huanuco,Huanuco,Amarilis,agropecuario / ciencia y tecnología / comercio y turismo / economía / educación / género / gobernabilidad
+1291,Organismo No Gubernamental De Desarrollo Islas De Paz Peru,Huanuco,Huanuco,Amarilis,educación / género
+1292,Organismo No Gubernamental De Desarrollo Lucero De La Esperanza,Arequipa,Arequipa,Cerro Colorado,ambiente / salud
+1293,Organismo No Gubernamental De Desarrollo Mirando El Mañana,Ucayali,Ucayali,Yarinacocha,salud
+1294,Organismo No Gubernamental De Desarrollo Siglo Xxi,Arequipa,Arequipa,Paucarpata,educación / salud
+1295,"Organismo No Gubernamental De Desarrollo, Apoyo A Familias De Zonas Marginadas Del Peru",Lambayeque,Lambayeque,Pimentel,educación / salud
+1296,Organismo No Gubernamental Despertad En Accion,Lambayeque,Lambayeque,Chiclayo,ambiente / educación / salud
+1297,"Organismo No Gubernamental Dios, Naturaleza Y Universo Dinaun",Huanuco,Huanuco,Huanuco,género / trabajo
+1298,Organismo No Gubernamental Emaus Jesucristo Señor De Los Milagros,Apurimac,Apurimac,Chacoche,ambiente / educación / género
+1299,Organismo No Gubernamental Iniciativas De Inclusion Y Sostenibilidad De Pueblos Andinos,Junin,Junin,El Tambo,agropecuario / ambiente / inclusión social / vivienda y saneamiento
+1300,Organismo No Gubernamental Instituto Del Sector Economico Popular Del Ucayali,Ucayali,Ucayali,Padre Abad,agropecuario / ambiente / justicia / trabajo
+1301,Organismo No Gubernamental Instituto Para El Desarrollo Urbano Y Rural,Ayacucho,Ayacucho,Ayacucho,ambiente / inclusión social / salud
+1302,Organismo No Gubernamental Kunan,Junin,Junin,Huancayo,agropecuario / ambiente / educación / producción
+1303,Organismo No Gubernamental Para El Desarrollo De Discapacitados De Apurimac,Junin,Junin,Huancayo,ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / justicia / producción / salud / trabajo
+1304,Organismo No Gubernamental Promotora De Proyectos De Desarrollo Social Hatarisun,Huancavelica,Huancavelica,Huancavelica,ambiente / salud
+1305,Organismo No Gubernamental Propuesta Para El Desarrollo Regional,Cajamarca,Cajamarca,Chota,ambiente / educación / género / gobernabilidad
+1306,Organismo No Gubernamental Proteccion Ecologica Para La Vida,Cusco,Cusco,Cusco,ambiente
+1307,Organismo No Gubernamental Proyecto Integral Para El Desarrollo,Cajamarca,Cajamarca,Bambamarca,agropecuario / salud
+1308,Organismo No Gubernamental Proyectos De Desarrollo Social Emprendedor Peru,Ayacucho,Ayacucho,Ayacucho,ambiente / comercio y turismo / vivienda y saneamiento
+1309,Organismo No Gubernamental Proyectos Para El Ande Y La Selva Del Peru,Ayacucho,Ayacucho,Ayacucho,agropecuario / comercio y turismo / economía
+1310,"Organismo No Gubernamental Proyectos Para La Accion, La Naturaleza Y Servicios Del Peru",Ayacucho,Ayacucho,Ayacucho,educación / género
+1311,Organismo No Gubernamental Recapacitar,Junin,Junin,El Tambo,educación / género / gobernabilidad
+1312,Organismo No Gubernamental Unidad Para El Desarrollo,Huanuco,Huanuco,Huanuco,educación
+1313,Organismo No Gubernamental Valor Y Fe,Junin,Junin,El Tambo,género
+1314,Organismo No Gubernamental Vidas Unidas Para El Desarrollo Y Bienestar,Huanuco,Huanuco,Amarilis,género
+1315,Organismo Para El Desarrollo Integral Sostenible,Junin,Junin,El Tambo,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / inclusión social / salud / trabajo
+1316,Organizacion Alcanzando La Mano - Alma,Apurimac,Apurimac,Curahuasi,género
+1317,Organizacion De Desarrollo De Comunidades Nativas De Iparia,Ucayali,Ucayali,Manantay,agropecuario / ambiente / educación / género / salud / vivienda y saneamiento
+1318,Organizacion De Los Exalumnos De La Promocion 1965 Del Colegio Nacional Coronel Bolognesi De Chiquian - Ancash,Lima,Lima,San Martin De Porres,ambiente / gobernabilidad / inclusión social
+1319,Organización de Personas con Discapacidad y Adulto Mayor Salud Educación Laboral,Lima,Lima,San Juan De Lurigancho,género
+1320,Organización Internacional de Desarrollo,Lima,Lima,Lima,género / salud
+1321,Organización Nacional de Defensa y Desarrollo de Pueblos Indigenas del Perú,Lima,Lima,Carabayllo,ambiente / gobernabilidad
+1322,Organización Nacional e Internacional para el Desarrollo Empresarial Social,Ica,Ica,Ica,agropecuario / ambiente
+1323,Organización Nacional Integracion para el Desarrollo,Lima,Lima,San Isidro,ambiente / educación / género / salud
+1324,Organización No Gubernamental - Ong Sisariy,Ayacucho,Ayacucho,Ayacucho,género
+1325,"Organización No Gubernamental ""Acción Social de Ayuda a los Excluidos"" - O.N.G. ""Asa""",Junin,Junin,El Tambo,agropecuario
+1326,Organización No Gubernamental Agencia Regional de Cooperación y Desarrollo,Junin,Junin,El Tambo,género / salud
+1327,Organización No Gubernamental Agualimpia,Lima,Lima,Miraflores,ambiente / salud
+1328,"Organizacion No Gubernamental Aire, Bosques y Agua",Lima,Lima,San Isidro,ambiente / educación
+1329,Organización No Gubernamental Angeles de la Guarda,Piura,Piura,Piura,género / inclusión social
+1330,Organización No Gubernamental Asociación de Cooperación Integral y Solidaridad en Selva,Junin,Junin,Mazamari,ambiente / educación
+1331,Organización No Gubernamental Asociación Peruana para Desarrollo Sostenible y Apoyo Rural,Pasco,Pasco,Oxapampa,ambiente / comercio y turismo
+1332,Organización No Gubernamental Conservadores de la Naturaleza,Ucayali,Ucayali,Calleria,ambiente
+1333,Organización No Gubernamental Creciendo Todos,Junin,Junin,El Tambo,ambiente / género / inclusión social / producción / trabajo
+1334,"Organizacion No Gubernamental de Desarrollo ""Desarrollo Integral Humano con Deporte Madre de Dios""",Madre De Dios,Madre De Dios,Tambopata,educación / gobernabilidad
+1335,Organización No Gubernamental de Desarrollo Acción Ambiental Pablito Noriega,Tumbes,Tumbes,Tumbes,ambiente / género
+1336,Organización No Gubernamental de Desarrollo Asociación de Niños y Jóvenes Puririg Puntaman Niños del Futuro de la Región Central,Junin,Junin,Chilca,educación / género / salud
+1337,Organizacion No Gubernamental de Desarrollo Camina Conmigo,Lambayeque,Lambayeque,Chongoyape,educación / salud
+1338,Organizacion No Gubernamental de Desarrollo Centro de Ayuda Social Humanitaria,Tumbes,Tumbes,Tumbes,género / inclusión social
+1339,Organizacion No Gubernamental de Desarrollo de Cirugia Plastica Qorito,Lima,Lima,Santiago De Surco,educación / salud
+1340,Organizacion No Gubernamental de Desarrollo Fundamental,Lima,Lima,Lima,educación / género
+1341,Organizacion No Gubernamental De Desarrollo Inca Peru,Junin,Junin,El Tambo,género
+1342,Organizacion No Gubernamental De Desarrollo Integrando Los Pueblos Andino - Amazonicos,Huanuco,Huanuco,Rupa-Rupa,agropecuario / educación / salud / transportes y comunicaciones
+1343,Organizacion No Gubernamental de Desarrollo Kulli,La Libertad,La Libertad,Florencia De Mora,género
+1344,Organizacion No Gubernamental de Desarrollo Maxvida,Piura,Piura,Piura,educación
+1345,Organizacion No Gubernamental de Desarrollo Munay Rurai,Huanuco,Huanuco,Amarilis,educación / género / salud
+1346,Organizacion No Gubernamental de Desarrollo Olimpo,Ancash,Ancash,Chimbote,agropecuario / educación / salud
+1347,Organizacion No Gubernamental de Desarrollo Proyecto Q´Oyllor,Arequipa,Arequipa,Arequipa,ambiente / educación / género / salud
+1348,Organizacion No Gubernamental de Desarrollo Qespina,Cusco,Cusco,Wanchaq,educación / género
+1349,Organizacion No Gubernamental de Desarrollo Una Luz En El Camino,Huanuco,Huanuco,Huanuco,género
+1350,Organizacion No Gubernamental de Desarrollo World Humanitarian Relief To Latin America,Lima,Lima,Magdalena Del Mar,ambiente / género
+1351,Organizacion No Gubernamental Ecologia Productiva para el Rejuvenecimiento de la Amazonia,Ucayali,Ucayali,Calleria,ambiente
+1352,"Organizacion No Gubernamental Federacion de Comunidades Laborales, Asociaciones y Mypes del Sur del Perú",Arequipa,Arequipa,Arequipa,producción
+1353,Organizacion No Gubernamental Futuro Seguro,Arequipa,Arequipa,Yanahuara,educación / género
+1354,Organizacion No Gubernamental Grow Green,Junin,Junin,Huancayo,género / gobernabilidad
+1355,Organizacion No Gubernamental Instituto De Desarrollo Agroecologico Sostenible,Huanuco,Huanuco,Huanuco,agropecuario
+1356,Organizacion No Gubernamental Instituto Mundial De Sanacion Ayahuasca,Ucayali,Ucayali,Yarinacocha,educación / género
+1357,Organizacion No Gubernamental Mantenimiento Al Desarrollo Sostenido,Lima,Lima,Pueblo Libre,producción
+1358,Organizacion No Gubernamental Oxigeno Para El Mundo,Ucayali,Ucayali,Calleria,ambiente
+1359,Organizacion No Gubernamental Para El Desarrollo Claridad ¡Si!,Loreto,Loreto,Yurimaguas,ambiente / género
+1360,Organizacion No Gubernamental Para El Desarrollo Equitativo Y Sostenido Para America Latina O.N.G. D-E-S-A,Lima,Lima,San Juan De Miraflores,género
+1361,Organizacion No Gubernamental Para La Proteccion Del Niño Y El Medio Ambiente De La Region Ucayali,Ucayali,Ucayali,Calleria,educación
+1362,Organizacion No Gubernamental Pintando Vidas,Huanuco,Huanuco,Amarilis,educación / gobernabilidad / salud
+1363,Organizacion No Gubernamental Rios Profundos,Apurimac,Apurimac,Andahuaylas,educación / salud
+1364,Organizacion No Gubernamental Vida Salud Progreso Integracion - O.N.G. Proinvisa,Junin,Junin,Huancayo,ambiente / género / trabajo / vivienda y saneamiento
+1365,Organizacion No Gubernamental Voz Y Accion Ciudadana,Loreto,Loreto,Belen,educación / gobernabilidad
+1366,Organizacion Para El Desarrollo Ambiental Y Tecnologico,Junin,Junin,El Tambo,educación / género
+1367,Organizacion Para La Ecologia Y La Vida,Lambayeque,Lambayeque,Chiclayo,agropecuario / comercio y turismo / producción
+1368,Organizacion Para La Prevencion Y Rehabilitacion De La Salud-Vision Sin Fronteras,Lima,Lima,Santiago De Surco,género
+1369,Organizacion Regional De Pueblos Indigenas Del Oriente,Loreto,Loreto,Iquitos,ambiente
+1370,Organizacion Social Atara,Lima,Lima,Lince,género
+1371,Orienting,Lima,Lima,Magdalena Del Mar,educación / salud
+1372,Otra Cosa Peru,La Libertad,La Libertad,Huanchaco,ambiente / educación / gobernabilidad / salud
+1373,Pachamama Yaku,Piura,Piura,Castilla,educación
+1374,Paraiso Amazonico Corporation,Lima,Lima,San Isidro,educación / salud
+1375,Parwa Instituto De Investigacion Y Desarrollo Andino,Ayacucho,Ayacucho,Ayacucho,ambiente / comercio y turismo / educación / género
+1376,Pasa La Voz,Cusco,Cusco,Cusco,educación / género / salud
+1377,Pastoral Social Caritas Requena,Loreto,Loreto,Requena,salud
+1378,Patronato De Cultura Machupicchu,Cusco,Cusco,Wanchaq,comercio y turismo / cultura
+1379,Patronato De La Cultura Altiplanica,Lima,Lima,Santiago De Surco,ambiente / cultura
+1380,Patronato Trujillo ¡Ahora!,La Libertad,La Libertad,Trujillo,ambiente / gobernabilidad
+1381,Perac,Lima,Lima,Miraflores,ambiente / género
+1382,Perú al Desarrollo Siglo XXI,Pasco,Pasco,Yanacancha,agropecuario / energía/extractiva / trabajo
+1383,Peru Childrens Charity,Lima,Lima,Magdalena Del Mar,educación / género / salud
+1384,Perú en Acción,Cajamarca,Cajamarca,Chota,agropecuario / ciencia y tecnología / educación
+1385,Peru Tierra Nueva,Junin,Junin,El Tambo,agropecuario
+1386,Perú Unido con Amor,Ayacucho,Ayacucho,Ayacucho,ambiente / género / producción
+1387,Peruanos Unidos por la Cocina y la Alimentación,Lima,Lima,Barranco,trabajo
+1388,Plan Macroregional de Desarrollo Sostenible,Lambayeque,Lambayeque,Chiclayo,comercio y turismo
+1389,Plataforma Social Tangarana,San Martin,San Martin,Moyobamba,educación
+1390,Pozos de Agua Viva-Perú,Piura,Piura,Piura,ambiente
+1391,Pro Camelidos Alto Andinos del Perú - ONGD,Lima,Lima,Miraflores,educación
+1392,Pro Conservación Amazónica,Loreto,Loreto,Belen,educación / salud
+1393,Pro Naturaleza - Fundacion Peruana Para La Conservacion De La Naturaleza,Lima,Lima,Santiago De Surco,ambiente
+1394,Proceso Kairos - Peru,Lima,Lima,Lima,educación
+1395,"Prodialogo, Prevencion Y Resolucion De Conflictos",Lima,Lima,Miraflores,género
+1396,Prodigio Peru,Lima,Lima,Lince,ambiente / educación / género
+1397,Proetica - Consejo Nacional Para La Etica Publica,Lima,Lima,Miraflores,género / gobernabilidad
+1398,Profonanpe,Lima,Lima,San Isidro,ambiente
+1399,Programa Andino De Cooperacion Y Tecnologia De Organizacion - Pacto,Lima,Lima,San Isidro,ambiente / comercio y turismo / producción / salud
+1400,Programa De Apoyo Nutricional Basado En Soya (Pan-Soy),Lima,Lima,Miraflores,género / salud
+1401,Programa De Apoyo Y Desarrollo Sostenible,Tacna,Tacna,Tacna,ambiente / educación / género
+1402,Programa De Capacitacion Para Jovenes Sechuranos Buscando Un Futuro Mejor,Piura,Piura,Sechura,educación / género / salud
+1403,Programa De Gestion De Recursos Sociales,Cajamarca,Cajamarca,Cajamarca,educación
+1404,Programa De Salud Y Desarrollo Nacional,Lima,Lima,San Miguel,ambiente / educación / salud
+1405,Programa De Soporte A La Autoayuda De Personas Seropositivas,Lima,Lima,Jesus Maria,educación / género / gobernabilidad / inclusión social / justicia
+1406,Programa Laboral De Desarrollo,Lima,Lima,Jesus Maria,educación / género
+1407,Programa Medico Esperanza Amazonica Del Peru,Loreto,Loreto,Iquitos,salud
+1408,Progreso y Desarrollo Lambayeque,Lambayeque,Lambayeque,Chiclayo,cultura
+1409,Prohdesar,Cajamarca,Cajamarca,Cajamarca,género
+1410,Promoción y Capacitación para el Desarrollo,Lima,Lima,San Isidro,educación / género / gobernabilidad / transportes y comunicaciones
+1411,Promoción y Desarrollo de La Mujer - Prodemu,San Martin,San Martin,Tarapoto,educación / género / inclusión social / justicia / producción / salud
+1412,Promotora de Obras Sociales y de Instrucción Popular,Lima,Lima,San Vicente De Cañete,agropecuario / género / salud
+1413,Prosynergy,Lima,Lima,La Molina,género
+1414,Proyeccion Y Desarrollo - Proydes,Lima,Lima,Jesus Maria,producción
+1415,Proyecto Andino de Tecnologías Campesinas,Lima,Lima,Magdalena Del Mar,agropecuario / educación / gobernabilidad
+1416,Proyecto Chacras,Cajamarca,Cajamarca,Cajamarca,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / inclusión social / producción / trabajo
+1417,Proyecto De Desarrollo Integral Andino,Cajamarca,Cajamarca,Bambamarca,ambiente / educación / salud / vivienda y saneamiento
+1418,Proyecto De Desarrollo Sostenible Integral,Cajamarca,Cajamarca,Cajamarca,ambiente / género
+1419,Proyecto Familia Y Agroecologia,Moquegua,Moquegua,Samegua,salud
+1420,Proyecto Futuro Peru,Lima,Lima,Lince,ambiente / gobernabilidad
+1421,Proyecto Mundo Mejor Peru,Loreto,Loreto,Belen,educación / salud
+1422,Proyecto Para Los Valles Interandinos Con Desarrollo Ambiental Sostenida,Cusco,Cusco,Santiago,agropecuario / ambiente / educación
+1423,Proyecto Vida En Jesus,Cusco,Cusco,Wanchaq,ambiente / educación / salud
+1424,Proyecto Vida Mundial,Callao,Callao,Ventanilla,inclusión social / salud
+1425,Proyectos De Desarrollo Y Bienestar Social - Prodebis,Lima,Lima,Jesus Maria,educación / género / salud
+1426,Psicoterapeutas Sin Fronteras,Lima,Lima,Miraflores,género / salud
+1427,Puckllay,Lima,Lima,Jesus Maria,cultura / producción
+1428,Red Andina De Desarrollo Y Corresponsabilidad - Codenet,Lima,Lima,San Isidro,ambiente / educación / género
+1429,Red De Accion En Agricultura Alternativa,Lima,Lima,Lima,ambiente
+1430,Red De Agricultura Ecologica Del Peru,Lima,Lima,La Victoria,agropecuario
+1431,Red De Aliados Para Las Sociedades Abandonadas - Rasa Joven,La Libertad,La Libertad,Trujillo,educación / género
+1432,Red De Integracion Amazonica - Ucayali,Ucayali,Ucayali,Calleria,ambiente
+1433,Red Ecologica Del Planeta,Tumbes,Tumbes,Tumbes,ambiente
+1434,Red Muqui,Lima,Lima,Jesus Maria,ambiente
+1435,Red Nacional De Promocion De La Mujer,Lima,Lima,Jesus Maria,género / justicia
+1436,Red Para La Infancia Y La Familia - Peru,Lima,Lima,Santiago De Surco,género
+1437,Red Peruana De Jovenes Afrodescendientes Ashanti Peru,Lima,Lima,Lima,gobernabilidad
+1438,Red Saywa - Comunicacion Indigena Para El Desarrollo Sostenible,Ayacucho,Ayacucho,Ayacucho,género
+1439,Red Sida Peru,Lima,Lima,Lince,salud
+1440,"Red Titikaka, Instituto De Educacion Y Comunicacion Para  El Desarrollo Humano",Puno,Puno,Puno,género
+1441,Red Uniendo Manos Peru,Lima,Lima,Magdalena Del Mar,educación / género
+1442,Redes Solidarias,Lima,Lima,La Victoria,educación / inclusión social / justicia / salud
+1443,Reflexion Democratica,Lima,Lima,Miraflores,gobernabilidad
+1444,Remando Por El Callao,Lima,Lima,San Miguel,comercio y turismo / transportes y comunicaciones
+1445,Reskate Kultural,Piura,Piura,Castilla,educación
+1446,Reverendo San Antonio De Padua,Junin,Junin,El Tambo,educación / gobernabilidad
+1447,Ricchari Peru,Junin,Junin,Chanchamayo,educación / género
+1448,Rr Asesores & Consultores,Lima,Lima,Lima,inclusión social / justicia
+1449,S.O.S - Menores Vulnerables,Lima,Lima,San Borja,educación / salud
+1450,Salud Sin Limites Peru,Lima,Lima,La Victoria,ambiente / género / inclusión social
+1451,Samusocial Peru,Lima,Lima,Pueblo Libre,ambiente / ciencia y tecnología / economía / género / gobernabilidad / inclusión social
+1452,San Javier Del Peru,Lima,Lima,Ate,ambiente / educación
+1453,Sapan Warmi Zocarey; Mujeres Emprendedoras Residentes En Lima Del Distrito De El Porvenir-Chincheros-Apurimac,Lima,Lima,San Luis,ambiente / género
+1454,Sector 3 Social Venture Group,Lima,Lima,Miraflores,educación / género
+1455,Seguridad Vial Peru,Lima,Lima,San Isidro,educación / género / transportes y comunicaciones
+1456,Sembrando Porvenir,Lima,Lima,La Molina,ambiente / educación / género
+1457,Sense Internacional - Peru,Lima,Lima,San Borja,género
+1458,"Sensibilizacion, Diagnostico Y Analisis",Lima,Lima,Lima,educación / género / salud
+1459,Servicio Agropecuario Para La Investigacion Y Promocion Economica,Amazonas,Amazonas,Nieva,agropecuario / ambiente / ciencia y tecnología / economía / educación / género / trabajo
+1460,Servicio De Medicinas Pro-Vida,Lima,Lima,Magdalena Del Mar,género / gobernabilidad / inclusión social / salud
+1461,Servicio De Promocion Integral Del Campesinado,Huancavelica,Huancavelica,Huancavelica,ambiente / ciencia y tecnología / economía / educación / género / gobernabilidad / producción
+1462,Servicio Ecumenico De Pastoral Y Estudios De La Comunicacion,Lima,Lima,Jesus Maria,cultura / educación
+1463,Servicio Para El Desarrollo Integral Rural,Ancash,Ancash,Moro,ambiente / género
+1464,Servicio Y Desarrollo,Lima,Lima,Pueblo Libre,educación / producción
+1465,Servicios Educativos El Agustino,Lima,Lima,El Agustino,educación / género
+1466,"Servicios Educativos, Promocion Y Apoyo Rural",Junin,Junin,Huancayo,salud
+1467,Shunia,Lima,Lima,Miraflores,educación
+1468,"Si, Da Vida",Lima,Lima,San Martin De Porres,salud
+1469,Sirviendo A Mi Peru,Callao,Callao,Ventanilla,inclusión social
+1470,Social Capital For Development,Lima,Lima,San Juan De Lurigancho,ambiente / educación
+1471,Sociedad Nacional Del Adulto Mayor,Ayacucho,Ayacucho,San Juan Bautista,educación / género
+1472,Sociedad Peruana De Derecho Ambiental,Lima,Lima,San Isidro,ambiente / ciencia y tecnología / educación / género / gobernabilidad
+1473,Sociedad Peruana De La Cruz Roja / Cruz Roja Peruana,Lima,Lima,Lima,educación / género / salud / vivienda y saneamiento
+1474,"Sociedad Y Discapacidad: Estudios, Asesoria E Integracion De La Persona Con Discapacidad",Lima,Lima,Miraflores,género
+1475,Socios Peru: Centro De Colaboracion Civica,Lima,Lima,Miraflores,gobernabilidad
+1476,Solaris Peru,Lima,Lima,Magdalena Del Mar,educación / salud
+1477,Solid Opd,Ayacucho,Ayacucho,Ayacucho,género
+1478,Solidaridad Mundial para el Desarrollo,Ayacucho,Ayacucho,Ayacucho,género
+1479,Solidaridad y Calidad de Vida,Ica,Ica,Ica,ambiente / inclusión social
+1480,Solidaritas Perú,Lima,Lima,Surquillo,educación / salud
+1481,Soluciones Empresariales contra la Pobreza,Lima,Lima,San Isidro,gobernabilidad
+1482,"Sonccollay Perú, Corazoncito Perú",Lima,Lima,Lurigancho,educación / género / salud
+1483,Sonrisa Feliz,Lima,Lima,San Martin De Porres,ambiente / educación / inclusión social / producción
+1484,Sonrisas Para El Futuro,Lima,Lima,Santiago De Surco,educación / salud / vivienda y saneamiento
+1485,Sueños De Balon,Lima,Lima,Surquillo,género
+1486,Sumbi,Lima,Lima,Barranco,educación / género / inclusión social
+1487,Taller de Capacitación e Investigación Familiar,Lima,Lima,Jesus Maria,educación / salud
+1488,Taller de Educación y Comunicación a través del Arte Arena y Esteras,Lima,Lima,Villa El Salvador,género
+1489,Taller de Promocion Andina,Ayacucho,Ayacucho,Ayacucho,ambiente / género / salud / vivienda y saneamiento
+1490,Tangarana Amazonia,Loreto,Loreto,Iquitos,educación / género / salud
+1491,Tarea Asociación de Publicaciones Educativas,Lima,Lima,Pueblo Libre,educación / justicia / producción
+1492,"Tecnologias Renovables para la Energia, el Agua y la Agricultura",Lima,Lima,Miraflores,ambiente
+1493,Tecsup Nº1,Lima,Lima,Santa Anita,educación
+1494,Tejiendo Sonrisas,Lima,Lima,Jesus Maria,educación / género / inclusión social / salud
+1495,Terra Viridis,Lima,Lima,Santiago De Surco,educación / género
+1496,The Peru Children´S Trust - Huancayo,Junin,Junin,El Tambo,educación / género
+1497,The Vine Trust (Peru),Lima,Lima,Miraflores,inclusión social / salud
+1498,Tierra De Niñ@S,Lima,Lima,Lince,educación / género / inclusión social / salud
+1499,Tierra Prometida,Huanuco,Huanuco,Rupa-Rupa,ambiente / género
+1500,Tierra y Ser,Lima,Lima,Santiago De Surco,educación / género / salud
+1501,Trabajo de mi Silencio,Cusco,Cusco,Calca,educación / género
+1502,Transparencia,Lima,Lima,Jesus Maria,justicia
+1503,Üaiki Global Initiative,Lima,Lima,Santiago De Surco,educación / género
+1504,Un Dia De Esperanza,Callao,Callao,Bellavista,salud
+1505,"Un Mundo de Todos, Recursos Solidarios",La Libertad,La Libertad,Trujillo,educación / salud
+1506,Una Luz de Esperanza para el Mundo,Lima,Lima,San Isidro,educación
+1507,Una Luz de Esperanza para los más Necesitados,Huanuco,Huanuco,Amarilis,agropecuario / ambiente
+1508,Uniendo Corazones en el Mundo,Lima,Lima,Lima,agropecuario / educación / gobernabilidad / producción / salud
+1509,Union Cultural Latinoamericana - Peru,Junin,Junin,Satipo,género
+1510,Union De Comunidades Nativas Awajun - Wampis Para La Conservacion De La Reserva Comunal Tunta Nain,Amazonas,Amazonas,Nieva,ambiente
+1511,"Union Por La Ecologia, Medio Ambiente, Planeamiento, Pobreza Y Regiones",Lima,Lima,San Isidro,ambiente
+1512,Union Venezolana En Peru,Lima,Lima,Miraflores,educación / género
+1513,Uqllay Pacha,Arequipa,Arequipa,Arequipa,ambiente
+1514,Urku Estudios Amazonicos,San Martin,San Martin,Tarapoto,agropecuario / ambiente / ciencia y tecnología / economía / género / inclusión social
+1515,Vacrecer Rural,La Libertad,La Libertad,Trujillo,educación
+1516,Valoracion Oportuna Para La Conservacion Economica Sostenible De La Amazonia,Madre De Dios,Madre De Dios,Tambopata,educación / salud
+1517,Vecinos Peru,Ayacucho,Ayacucho,Ayacucho,agropecuario / salud / vivienda y saneamiento
+1518,Vida Abundante. Asociacion Cristiana Para El Desarrollo Sostenible,Lima,Lima,Jesus Maria,educación / género
+1519,Vida Digna,Lima,Lima,Lima,vivienda y saneamiento
+1520,Vida Integral Con Dignidad,Lima,Lima,Lima,educación / género / salud
+1521,Vida Que Impulsa El Desarrollo Del Agro,Huanuco,Huanuco,Luyando,ambiente / educación / gobernabilidad
+1522,Vida Y Familia,Arequipa,Arequipa,Arequipa,educación / salud
+1523,Vida Y Salud De La Gran Familia Ongd,Piura,Piura,Castilla,educación
+1524,Vision Para El Desarrollo,Lima,Lima,Santiago De Surco,agropecuario / educación / gobernabilidad / salud / vivienda y saneamiento
+1525,Vision Y Desarrollo Auto Sostenible,Lima,Lima,Santiago De Surco,educación / salud
+1526,Voluntariado Manos Abiertas,La Libertad,La Libertad,Victor Larco Herrera,salud
+1527,Voluntarios Emocionales,Lima,Lima,San Isidro,género
+1528,Volunteers Peru,Arequipa,Arequipa,Arequipa,género
+1529,Waman Wasi Centro Para La Biodiversidad Y Espiritualidad Andino Amazonica,San Martin,San Martin,Lamas,agropecuario / ambiente
+1530,Warmayllu,Cajamarca,Cajamarca,Cajamarca,ambiente / cultura / educación
+1531,We Can Be Heroes On The World Asociacion Civil,Lima,Lima,Miraflores,educación / género
+1532,World Monuments Fund Peru,Lima,Lima,Barranco,cultura / política exterior
+1533,World Vision Peru,Lima,Lima,Jesus Maria,género
+1534,X Los Estudiantes,Lima,Lima,Miraflores,educación
+1535,Yachay Peru,Lima,Lima,Miraflores,educación / justicia
+1536,Yapuq. Equipo De Promocion Y Desarrollo Rural,Junin,Junin,Huancayo,género / justicia
+1537,Yuran Yaqu,Lima,Lima,San Miguel,agropecuario / ambiente
+1538,Yuraq Sonqo - Salud,Lima,Lima,Santiago de Surco,salud
